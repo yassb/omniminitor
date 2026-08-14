@@ -5,6 +5,7 @@ import {
   extractOfficialSourceUrl,
   extractOpportunities,
   extractSyndicationEntries,
+  fetchHtml,
   scoreDiscoveryLink
 } from '../src/scraper.js';
 
@@ -13,6 +14,29 @@ const site = {
   name: 'Test University',
   url: 'https://faculty.example.ac.ma/'
 };
+
+test('retries transient fetch failures before marking a source unavailable', async (t) => {
+  const originalFetch = globalThis.fetch;
+  let attempts = 0;
+  t.after(() => {
+    globalThis.fetch = originalFetch;
+  });
+  globalThis.fetch = async () => {
+    attempts += 1;
+    if (attempts < 3) throw new TypeError('fetch failed');
+    return new Response('<html><body>Recovered</body></html>', {
+      status: 200,
+      headers: { 'content-type': 'text/html; charset=utf-8' }
+    });
+  };
+
+  const html = await fetchHtml('https://temporary-network-error.example/source', {
+    timeoutMs: 1000
+  });
+
+  assert.match(html, /Recovered/);
+  assert.equal(attempts, 3);
+});
 
 test('extracts a valid opportunity card and ignores a results card', () => {
   const html = `

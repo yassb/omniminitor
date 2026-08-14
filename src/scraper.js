@@ -13,6 +13,7 @@ const fetchCache = new Map();
 const fetchCacheTtlMs = 10 * 60 * 1000;
 const MAX_DISCOVERY_LINKS = 600;
 const MAX_FEED_ITEMS = 120;
+const MAX_FETCH_ATTEMPTS = 3;
 const TEMPORARY_HTTP_ERROR_PATTERN = /^HTTP (?:429|5\d\d)$/i;
 
 const subjectPattern =
@@ -144,7 +145,7 @@ async function fetchPublicResource(
   }
 
   let lastError;
-  for (let attempt = 1; attempt <= 2; attempt += 1) {
+  for (let attempt = 1; attempt <= MAX_FETCH_ATTEMPTS; attempt += 1) {
     const controller = new AbortController();
     const timeout = setTimeout(() => controller.abort(), timeoutMs);
 
@@ -188,8 +189,8 @@ async function fetchPublicResource(
         error.name === 'AbortError' ||
         TEMPORARY_HTTP_ERROR_PATTERN.test(error.message) ||
         /fetch failed|network|socket|connection|econn/i.test(error.message);
-      if (attempt === 2 || !temporaryFailure) throw error;
-      await new Promise((resolve) => setTimeout(resolve, 450));
+      if (attempt === MAX_FETCH_ATTEMPTS || !temporaryFailure) throw error;
+      await new Promise((resolve) => setTimeout(resolve, 450 * attempt));
     } finally {
       clearTimeout(timeout);
     }
