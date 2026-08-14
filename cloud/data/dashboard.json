@@ -1,0 +1,1121 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-14T12:14:14.483Z",
+  "targetCycle": "2026-2027",
+  "lastScan": {
+    "startedAt": "2026-08-14T12:11:39.006Z",
+    "completedAt": "2026-08-14T12:14:14.390Z",
+    "status": "completed",
+    "sitesChecked": 34,
+    "healthySites": 34,
+    "matchesFound": 24,
+    "newOpportunities": 0,
+    "telegramSent": 0,
+    "telegramError": null,
+    "durationMs": 155384
+  },
+  "stats": {
+    "opportunities": 20,
+    "open": 6,
+    "unknown": 9,
+    "closed": 0,
+    "sources": 34,
+    "healthySources": 34,
+    "nextDeadline": {
+      "title": "Enseignement Secondaire : Langue Anglaise تخصص اللغة الإنجليزية",
+      "deadline": "2026-08-23"
+    }
+  },
+  "alerts": {
+    "telegramConfigured": true,
+    "whatsappQrAvailable": false
+  },
+  "opportunities": [
+    {
+      "id": "3575eb7396c84441",
+      "title": "Enseignement Secondaire : Langue Anglaise تخصص اللغة الإنجليزية",
+      "additionalNames": [],
+      "announcementTitle": "Licence Education ENS Casablanca 2026-2027",
+      "summary": "ENS Casablanca Licence Education 2026-2027, Inscription Concours d'accès aux Licence Education à la ENS Casablanca 2026-2027.الاجازة في التربية المدرسة العليا للأساتذة بالدار البيضاء 2026-2027Inscription Licence Education ENS Casablanca 2026-2027.L’École Normale Supérieure de Casablanca, (ENS Casablanca) Lance Inscription Licence Education 2026-2027.Licence ",
+      "siteName": "Licence Professionnelle Maroc - 2026-2027",
+      "siteUrl": "https://www.licence-professionnelle-maroc.com/",
+      "discoveryUrl": "https://www.licence-professionnelle-maroc.com/2026/08/licence-education-ens-casablanca-2026.html",
+      "officialUrl": "",
+      "primaryUrl": "https://www.licence-professionnelle-maroc.com/2026/08/licence-education-ens-casablanca-2026.html",
+      "sourceType": "Aggregator",
+      "programmeType": "Master",
+      "focuses": [
+        "English Studies",
+        "Teaching / Didactics"
+      ],
+      "keywords": [
+        "Master",
+        "الإنجليزية",
+        "الانجليزية",
+        "إنجليزية",
+        "انجليزية"
+      ],
+      "confidence": {
+        "level": "Good",
+        "score": 74
+      },
+      "status": "Open",
+      "deadline": "2026-08-23",
+      "daysRemaining": 9,
+      "sortGroup": 0,
+      "firstSeenAt": "2026-08-12 16:44:25",
+      "lastSeenAt": "2026-08-12 16:44:25",
+      "initialDone": false
+    },
+    {
+      "id": "f2ed720895c99263",
+      "title": "Master Linguistics and Advanced English Studies",
+      "additionalNames": [
+        "Master Approches Linguistiques : Théories, Analyses et Contextes Culturels"
+      ],
+      "announcementTitle": "Master FLSH Marrakech 2026-2027",
+      "summary": "Master FLSH Marrakech 2026-2027FLSH MarrakechFLSH Marrakech Master 2026-2027Master FLSH Marrakech 2026ماستر كلية الاداب والعلوم الانسانية مراكش 2026-2027Master Marrakech 2026-2027ماستر كلية الاداب مراكش 2026-2027FLSH Marrakech Master 2026ماستر مراكش 2026-2027Master FLSH Marrakech 2026/2027Masters et Masters spécialisés FLSH Marrakech 2026-2027Master FLSH Mar",
+      "siteName": "AlMaster Maroc - FLSH Masters",
+      "siteUrl": "https://www.almaster-maroc.com/search/label/FLSH",
+      "discoveryUrl": "https://www.almaster-maroc.com/2026/06/master-flsh-marrakech-2026-2027.html",
+      "officialUrl": "https://e-candidature.uca.ma/master.flsh/form/",
+      "primaryUrl": "https://e-candidature.uca.ma/master.flsh/form/",
+      "sourceType": "Aggregator",
+      "programmeType": "Master",
+      "focuses": [
+        "English Studies",
+        "Linguistics"
+      ],
+      "keywords": [
+        "Master",
+        "ماستر",
+        "English",
+        "English Studies",
+        "Linguistics",
+        "Linguistiques",
+        "Communication",
+        "Medias"
+      ],
+      "confidence": {
+        "level": "Good",
+        "score": 76
+      },
+      "status": "Open",
+      "deadline": "2026-08-25",
+      "daysRemaining": 11,
+      "sortGroup": 0,
+      "firstSeenAt": "2026-08-12 16:44:09",
+      "lastSeenAt": "2026-08-14T12:13:46.530Z",
+      "initialDone": false
+    },
+    {
+      "id": "725a6c41aff59f01",
+      "title": "Licence d'Excellence Educational Linguistics",
+      "additionalNames": [],
+      "announcementTitle": "Licence d'Excellence FLSH Meknès 2026-2027",
+      "summary": "FLSH Meknès Licence d'Excellence 2026-2027, Concours d'accès aux Licences d'Excellence à la FLSH Meknès 2026-2027.اجازة التميز كلية الاداب والعلوم الانسانية مكناس 2026-2027La Faculté des Lettres et des Sciences Humaines de Meknès (FLSH Meknès), lance Inscription Licence d'Excellence 2026-2027.Licence d'Excellence FLSH Meknès 2026-2027.إعلان عن فتح التسجيل ال",
+      "siteName": "Licence Professionnelle Maroc - FLSH",
+      "siteUrl": "https://www.licence-professionnelle-maroc.com/search/label/FLSH",
+      "discoveryUrl": "https://www.licence-professionnelle-maroc.com/2026/07/licence-dexcellence-flsh-meknes-2026.html",
+      "officialUrl": "https://candidature.umi.ac.ma/",
+      "primaryUrl": "https://candidature.umi.ac.ma/",
+      "sourceType": "Aggregator",
+      "programmeType": "Licence d'Excellence",
+      "focuses": [
+        "Linguistics",
+        "Licence d'Excellence"
+      ],
+      "keywords": [
+        "Master",
+        "Licence d'Excellence",
+        "Linguistics"
+      ],
+      "confidence": {
+        "level": "Good",
+        "score": 74
+      },
+      "status": "Open",
+      "deadline": "2026-09-08",
+      "daysRemaining": 25,
+      "sortGroup": 0,
+      "firstSeenAt": "2026-07-31 21:59:41",
+      "lastSeenAt": "2026-08-14T12:13:55.909Z",
+      "initialDone": false
+    },
+    {
+      "id": "27f24c7018f18389",
+      "title": "Master Applied linguistics & Foreign Language teaching",
+      "additionalNames": [
+        "Master English for Specific purposes"
+      ],
+      "announcementTitle": "Master FLSH Meknès 2026-2027",
+      "summary": "Master FLSH Meknès 2026-2027FLSH MeknèsFLSH Meknès Master 2026-2027ماستر كلية الاداب والعلوم الانسانية مكناس 2026-2027FLSH Meknès Master 2026-2027Inscription Master FLSH Meknès 2026FLSH Meknès Master 2026Masters et Masters spécialisés FLSH Meknès 2026-2027Master FLSH Meknès 2026-2027, Inscription Concours d'accès aux Master à la FLSH Meknès 2026-2027.La Facu",
+      "siteName": "AlMaster Maroc - FLSH Masters",
+      "siteUrl": "https://www.almaster-maroc.com/search/label/FLSH",
+      "discoveryUrl": "https://www.almaster-maroc.com/2026/07/master-flsh-meknes-2026-2027.html",
+      "officialUrl": "https://candidature.umi.ac.ma/",
+      "primaryUrl": "https://candidature.umi.ac.ma/",
+      "sourceType": "Aggregator",
+      "programmeType": "Master",
+      "focuses": [
+        "Linguistics",
+        "Teaching / Didactics",
+        "English Studies"
+      ],
+      "keywords": [
+        "Master",
+        "ماستر",
+        "English",
+        "Linguistics",
+        "اللسانيات",
+        "لسانيات",
+        "Communication",
+        "Media"
+      ],
+      "confidence": {
+        "level": "Good",
+        "score": 76
+      },
+      "status": "Open",
+      "deadline": "2026-09-08",
+      "daysRemaining": 25,
+      "sortGroup": 0,
+      "firstSeenAt": "2026-07-31 21:59:28",
+      "lastSeenAt": "2026-08-14T12:13:46.530Z",
+      "initialDone": false
+    },
+    {
+      "id": "22e88eed8fd70472",
+      "title": "Master Linguistic and Intercultural Studies for Sustainable Education (TN + TA)",
+      "additionalNames": [
+        "Master English Language Teaching and Digital Technology (TN + TA)"
+      ],
+      "announcementTitle": "Master ENS Meknès 2026-2027",
+      "summary": "Master ENS Meknès 2026-2027ENS MeknèsENS Meknès Master 2026-2027ماستر المدرسة العليا للأساتذة مكناس 2026-2027ENS Meknès Master 2026Master ENS MeknèsMaster ENS Meknès 2026Masters ENS Meknès 2026-2027ENS Meknès Master et Masters Spécialisés 2026-2027Master ENS Meknès 2026-2027, Concours d'accès aux Master à la ENS Meknès 2026-2027.L'École Normale Supérieure de",
+      "siteName": "AlMaster Maroc - Master 2026-2027",
+      "siteUrl": "https://www.almaster-maroc.com/",
+      "discoveryUrl": "https://www.almaster-maroc.com/2026/07/master-ens-meknes-2026-2027.html",
+      "officialUrl": "https://candidature.umi.ac.ma/",
+      "primaryUrl": "https://candidature.umi.ac.ma/",
+      "sourceType": "Aggregator",
+      "programmeType": "Master",
+      "focuses": [
+        "Linguistics",
+        "English Studies",
+        "Teaching / Didactics"
+      ],
+      "keywords": [
+        "Master",
+        "ماستر",
+        "English",
+        "Didactique",
+        "الثقافة"
+      ],
+      "confidence": {
+        "level": "Good",
+        "score": 76
+      },
+      "status": "Open",
+      "deadline": "2026-09-08",
+      "daysRemaining": 25,
+      "sortGroup": 0,
+      "firstSeenAt": "2026-08-12 16:44:09",
+      "lastSeenAt": "2026-08-14T12:13:39.515Z",
+      "initialDone": false
+    },
+    {
+      "id": "1559a06851e01704",
+      "title": "Master Advanced Theoretical Linguistics and Its Computational Dimensions",
+      "additionalNames": [
+        "Master Applied Linguistics and Teaching English to Speakers of Other Languages"
+      ],
+      "announcementTitle": "Master FLSH Agadir 2026-2027",
+      "summary": "Master FLSH Agadir 2026-2027FLSH AgadirFLSH Agadir Master 2026-2027Master Agadir 2026ماستر كلية الاداب والعلوم الانسانية اكادير 2026-2027FLSH Agadir Master 2026Master Maroc 2026-2027FLSH Agadir Master 2026-2027ماستر كلية الاداب اكادير 2026-2027Master FLSH Agadirinscription master FLSH Agadir 2026Master Agadir 2026-2027Masters FLSH Agadir 2026/2027FLSH Agadir",
+      "siteName": "AlMaster Maroc - FLSH Masters",
+      "siteUrl": "https://www.almaster-maroc.com/search/label/FLSH",
+      "discoveryUrl": "https://www.almaster-maroc.com/2026/08/master-flsh-agadir-2026-2027.html",
+      "officialUrl": "http://preinscription.uiz.ac.ma/",
+      "primaryUrl": "http://preinscription.uiz.ac.ma/",
+      "sourceType": "Aggregator",
+      "programmeType": "Master",
+      "focuses": [
+        "Linguistics",
+        "English Studies",
+        "Teaching / Didactics"
+      ],
+      "keywords": [
+        "Master",
+        "ماستر",
+        "English",
+        "Linguistics",
+        "Communication"
+      ],
+      "confidence": {
+        "level": "Good",
+        "score": 76
+      },
+      "status": "Open",
+      "deadline": "2026-09-10",
+      "daysRemaining": 27,
+      "sortGroup": 0,
+      "firstSeenAt": "2026-08-12 16:44:08",
+      "lastSeenAt": "2026-08-14T12:13:46.530Z",
+      "initialDone": false
+    },
+    {
+      "id": "208b6a6da2d23f4b",
+      "title": "ماستر اللغات والترجمة",
+      "additionalNames": [],
+      "announcementTitle": "Master FLA Marrakech 2026-2027",
+      "summary": "Master FLA Marrakech 2026-2027FLA MarrakechFLA Marrakech Master 2026-2027Master Faculté de langue arabe Marrakech 2026-2027Faculté de langue arabe Marrakechماستر كلية اللغة العربية مراكش 2026-2027Master Marrakech 2026-2027Master Maroc 2026-2027Master FLAM Marrakech 2026كلية اللغة العربية مراكش ماستر 2026Master FLA Marrakech 2026Faculté de langue arabe Marrak",
+      "siteName": "AlMaster Maroc - FLA Masters",
+      "siteUrl": "https://www.almaster-maroc.com/search/label/FLA",
+      "discoveryUrl": "https://www.almaster-maroc.com/2026/06/master-fla-marrakech-2026-2027.html",
+      "officialUrl": "https://e-candidature.uca.ma/master.fla/form/",
+      "primaryUrl": "https://e-candidature.uca.ma/master.fla/form/",
+      "sourceType": "Aggregator",
+      "programmeType": "Master",
+      "focuses": [
+        "Translation"
+      ],
+      "keywords": [
+        "Master",
+        "ماستر",
+        "الترجمة",
+        "ترجمة"
+      ],
+      "confidence": {
+        "level": "Good",
+        "score": 74
+      },
+      "status": "Deadline unknown",
+      "deadline": null,
+      "daysRemaining": null,
+      "sortGroup": 1,
+      "firstSeenAt": "2026-08-12 16:44:34",
+      "lastSeenAt": "2026-08-14T12:13:47.314Z",
+      "initialDone": false
+    },
+    {
+      "id": "fd0486cda6dede0d",
+      "title": "Master Teaching English As To Speakers Of Other Languages (Tesol)",
+      "additionalNames": [],
+      "announcementTitle": "Master ENS Rabat 2026-2027",
+      "summary": "Master ENS Rabat 2026-2027ENS RabatENS Rabat Master 2026-2027ماستر المدرسة العليا للأساتذة بالرباط 2026-2027Master ENS RabatMaster Rabat 2026-2027ماستر المدرسة العليا للأساتذة 2026-2027Master ENS Rabat 2026ENS Rabat Masters et Masters spécialisés 2026-2027Master ENS Rabat 2026-2027, Concours d'accès aux Master et Master Spécialisés à la ENS Rabat 2026-2027.L",
+      "siteName": "AlMaster Maroc - Master 2026-2027",
+      "siteUrl": "https://www.almaster-maroc.com/",
+      "discoveryUrl": "https://www.almaster-maroc.com/2026/07/master-ens-rabat-2026-2027.html",
+      "officialUrl": "https://preins.um5.ac.ma/",
+      "primaryUrl": "https://preins.um5.ac.ma/",
+      "sourceType": "Aggregator",
+      "programmeType": "Master",
+      "focuses": [
+        "English Studies",
+        "Teaching / Didactics"
+      ],
+      "keywords": [
+        "Master",
+        "ماستر",
+        "English",
+        "التواصل"
+      ],
+      "confidence": {
+        "level": "Good",
+        "score": 74
+      },
+      "status": "Deadline unknown",
+      "deadline": null,
+      "daysRemaining": null,
+      "sortGroup": 1,
+      "firstSeenAt": "2026-08-12 16:44:09",
+      "lastSeenAt": "2026-08-14T12:13:39.516Z",
+      "initialDone": false
+    },
+    {
+      "id": "1ecd64881074c850",
+      "title": "Master de Didactique des Langues, de la Culture et de la Communication : Option Anglais",
+      "additionalNames": [],
+      "announcementTitle": "Master ENS Marrakech 2026-2027",
+      "summary": "Master ENS Marrakech 2026-2027ENS MarrakechENS Marrakech Master 2026-2027ENS Marrakech Master 2026ماستر المدرسة العليا للأساتذة مراكش 2026-2027Masters ENS Marrakech 2026ens marrakech masterENS Marrakech Master 2026Inscription Master ENS Marrakech 2026Master ENS Marrakech 2026المدرسة العليا للأساتذة مراكش ماستر 2026-2027Master Marrakech 2026-2027Master ENS 20",
+      "siteName": "AlMaster Maroc - Master 2026-2027",
+      "siteUrl": "https://www.almaster-maroc.com/",
+      "discoveryUrl": "https://www.almaster-maroc.com/2026/06/master-ens-marrakech-2026-2027.html",
+      "officialUrl": "https://e-candidature.uca.ma/master.ens/form/",
+      "primaryUrl": "https://e-candidature.uca.ma/master.ens/form/",
+      "sourceType": "Aggregator",
+      "programmeType": "Master",
+      "focuses": [
+        "English Studies",
+        "Teaching / Didactics"
+      ],
+      "keywords": [
+        "Master",
+        "ماستر",
+        "Anglais",
+        "Didactique",
+        "Communication",
+        "Culture"
+      ],
+      "confidence": {
+        "level": "Good",
+        "score": 84
+      },
+      "status": "Deadline unknown",
+      "deadline": null,
+      "daysRemaining": null,
+      "sortGroup": 1,
+      "firstSeenAt": "2026-08-12 16:44:08",
+      "lastSeenAt": "2026-08-14T12:13:39.515Z",
+      "initialDone": false
+    },
+    {
+      "id": "9e97a3b8e994d26e",
+      "title": "Annonce de prolongation de la date du concours d'accès ESRFT 2026 - 2027",
+      "additionalNames": [],
+      "announcementTitle": "Annonce de prolongation de la date du concours d'accès ESRFT 2026 - 2027",
+      "summary": "Plus de détails Annonce de prolongation de la date du concours d'accès ESRFT 2026 - 2027 2026-07-09 Concours et recrutement",
+      "siteName": "ESRFT Tanger - Traduction",
+      "siteUrl": "https://esrft.ma/",
+      "discoveryUrl": "https://esrft.ma/actualite/224-2026-07-09",
+      "officialUrl": "",
+      "primaryUrl": "https://esrft.ma/actualite/224-2026-07-09",
+      "sourceType": "Official",
+      "programmeType": "Master",
+      "focuses": [
+        "Translation"
+      ],
+      "keywords": [
+        "ESRFT"
+      ],
+      "confidence": {
+        "level": "Good",
+        "score": 77
+      },
+      "status": "Deadline unknown",
+      "deadline": null,
+      "daysRemaining": null,
+      "sortGroup": 1,
+      "firstSeenAt": "2026-08-05 22:57:09",
+      "lastSeenAt": "2026-08-14T12:12:03.664Z",
+      "initialDone": false
+    },
+    {
+      "id": "cbaec14e3e6146da",
+      "title": "Concours d'accès à l'ESRFT de Tanger pour l'année universitaire 2026 - 2027",
+      "additionalNames": [],
+      "announcementTitle": "Concours d'accès à l'ESRFT de Tanger pour l'année universitaire 2026 - 2027",
+      "summary": "Plus de détails Concours d'accès à l'ESRFT de Tanger pour l'année universitaire 2026 - 2027 2026-06-19 Concours et recrutement",
+      "siteName": "ESRFT Tanger - Traduction",
+      "siteUrl": "https://esrft.ma/",
+      "discoveryUrl": "https://esrft.ma/actualite/220-2026-06-19",
+      "officialUrl": "",
+      "primaryUrl": "https://esrft.ma/actualite/220-2026-06-19",
+      "sourceType": "Official",
+      "programmeType": "Master",
+      "focuses": [
+        "Translation"
+      ],
+      "keywords": [
+        "ESRFT"
+      ],
+      "confidence": {
+        "level": "Good",
+        "score": 77
+      },
+      "status": "Deadline unknown",
+      "deadline": null,
+      "daysRemaining": null,
+      "sortGroup": 1,
+      "firstSeenAt": "2026-08-05 22:57:09",
+      "lastSeenAt": "2026-08-14T12:12:03.664Z",
+      "initialDone": false
+    },
+    {
+      "id": "3d1a5c6f538b5f9f",
+      "title": "Master Applied Linguistics: Theory, Research, And Pedagogy",
+      "additionalNames": [],
+      "announcementTitle": "Master FSE Rabat 2026-2027",
+      "summary": "Master FSE Rabat 2026-2027FSE RabatFSE Rabat Master 2026-2027Faculté des sciences de l'éducation Rabatماستر كلية علوم التربية الرباط 2026-2027Master FSE Rabat 2026ماستر كلية علوم التربية 2026-2027FSE Rabat Master 2026Master Rabat 2026-2027Inscription Master FSE Rabat 2026Masters et Masters Spécialisés à la FSE Rabat 2026-2027Master FSE Rabat 2026-2027, Conco",
+      "siteName": "AlMaster Maroc - FSE Masters",
+      "siteUrl": "https://www.almaster-maroc.com/search/label/FSE",
+      "discoveryUrl": "https://www.almaster-maroc.com/2026/07/master-fse-rabat-2026-2027.html",
+      "officialUrl": "https://preins.um5.ac.ma/",
+      "primaryUrl": "https://preins.um5.ac.ma/",
+      "sourceType": "Aggregator",
+      "programmeType": "Master",
+      "focuses": [
+        "Linguistics"
+      ],
+      "keywords": [
+        "Master",
+        "ماستر",
+        "Linguistics"
+      ],
+      "confidence": {
+        "level": "Good",
+        "score": 74
+      },
+      "status": "Deadline unknown",
+      "deadline": null,
+      "daysRemaining": null,
+      "sortGroup": 1,
+      "firstSeenAt": "2026-07-31 21:59:32",
+      "lastSeenAt": "2026-08-14T12:13:50.927Z",
+      "initialDone": false
+    },
+    {
+      "id": "c7a51b8445de72b6",
+      "title": "ماستر اللسانيات والمعالجة الآلية للألسن الطبيعية",
+      "additionalNames": [],
+      "announcementTitle": "Master FLSH Rabat 2026-2027",
+      "summary": "Master FLSH Rabat 2026-2027FLSH RabatFLSH Rabat Master 2026-2027Master Rabat 2026-2027FLSH Rabat Master 2026ماستر كلية الاداب والعلوم الانسانية بالرباط 2026-2027FLSH Rabat Master 2026-2027Master FLSH RabatMaster Maroc 2026-2027 Master FLSH 2026-2027Master FLSH Rabat 2026FLSH Rabat Master et Master spécialisé 2026-2027Master FLSH Rabat 2026-2027, Concours d'a",
+      "siteName": "AlMaster Maroc - FLSH Masters",
+      "siteUrl": "https://www.almaster-maroc.com/search/label/FLSH",
+      "discoveryUrl": "https://www.almaster-maroc.com/2026/07/master-flsh-rabat-2026-2027.html",
+      "officialUrl": "https://preins.um5.ac.ma/",
+      "primaryUrl": "https://preins.um5.ac.ma/",
+      "sourceType": "Aggregator",
+      "programmeType": "Master",
+      "focuses": [
+        "Linguistics"
+      ],
+      "keywords": [
+        "Master",
+        "ماستر",
+        "Linguistics",
+        "اللسانيات",
+        "لسانيات",
+        "Communication",
+        "الثقافة",
+        "Medias"
+      ],
+      "confidence": {
+        "level": "Good",
+        "score": 74
+      },
+      "status": "Deadline unknown",
+      "deadline": null,
+      "daysRemaining": null,
+      "sortGroup": 1,
+      "firstSeenAt": "2026-07-31 21:59:28",
+      "lastSeenAt": "2026-08-14T12:13:46.530Z",
+      "initialDone": false
+    },
+    {
+      "id": "32abd5531715a10c",
+      "title": "Master Applied Linguistics and Innovation in language Education",
+      "additionalNames": [],
+      "announcementTitle": "Master FLSH El Jadida 2026-2027",
+      "summary": "Master FLSH El Jadida 2026-2027FLSH El JadidaFLSH El Jadida Master 2026-2027Master El Jadida 2026ماستر كلية الاداب والعلوم الانسانية الجديدة 2026-2027FLSH El Jadida Master 2026ماستر كلية الاداب الجديدة 2026-2027Master FLSH El Jadida 2026Master FLSH 2026-2027 Masters à la FLSH El Jadida 2026-2027 Master FLSH El Jadida 2026-2027, Concours d'accès aux Master à ",
+      "siteName": "AlMaster Maroc - FLSH Masters",
+      "siteUrl": "https://www.almaster-maroc.com/search/label/FLSH",
+      "discoveryUrl": "https://www.almaster-maroc.com/2026/07/master-flsh-el-jadida-2026-2027.html",
+      "officialUrl": "https://e-candidature.ucd.ac.ma/Master/register",
+      "primaryUrl": "https://e-candidature.ucd.ac.ma/Master/register",
+      "sourceType": "Aggregator",
+      "programmeType": "Master",
+      "focuses": [
+        "Linguistics"
+      ],
+      "keywords": [
+        "Master",
+        "ماستر",
+        "Linguistics",
+        "Didactique",
+        "Communication",
+        "Culture",
+        "Media"
+      ],
+      "confidence": {
+        "level": "Good",
+        "score": 74
+      },
+      "status": "Deadline unknown",
+      "deadline": null,
+      "daysRemaining": null,
+      "sortGroup": 1,
+      "firstSeenAt": "2026-07-31 21:59:24",
+      "lastSeenAt": "2026-08-14T12:13:46.530Z",
+      "initialDone": false
+    },
+    {
+      "id": "1d13e0b529e89d04",
+      "title": "Portail de l'École Supérieure Roi Fahd de Traduction -Tanger- - Master candidature",
+      "additionalNames": [],
+      "announcementTitle": "Portail de l'École Supérieure Roi Fahd de Traduction -Tanger- - Master candidature",
+      "summary": "Portail de l'École Supérieure Roi Fahd de Traduction -Tanger- --> --> +212 539 94 28 13 esrft@uae.ac.ma --> | | | --> | | | --> Itinéraires de Traducteurs Contact Appels d'offres École Direction Mot du Directeur Biographie Investiture L’École en chiffres Présentation de l'école Histoire et Chronologie Gouvernance Conseil d'établissement Commissions Corps pro",
+      "siteName": "ESRFT Tanger - Traduction",
+      "siteUrl": "https://esrft.ma/",
+      "discoveryUrl": "https://esrft.ma/",
+      "officialUrl": "",
+      "primaryUrl": "https://esrft.ma/",
+      "sourceType": "Official",
+      "programmeType": "Master",
+      "focuses": [
+        "Translation"
+      ],
+      "keywords": [
+        "Master",
+        "Linguistiques",
+        "Traduction"
+      ],
+      "confidence": {
+        "level": "Good",
+        "score": 77
+      },
+      "status": "Deadline unknown",
+      "deadline": null,
+      "daysRemaining": null,
+      "sortGroup": 1,
+      "firstSeenAt": "2026-07-31 21:17:29",
+      "lastSeenAt": "2026-07-31 21:17:29",
+      "initialDone": false
+    },
+    {
+      "id": "b4ea7446f9664967",
+      "title": "Master English Language Education And Crosscultural Communication",
+      "additionalNames": [
+        "ماستر اللسانيات التطبيقية والرقمنة والتواصل"
+      ],
+      "announcementTitle": "Master FLLA Errachidia 2026-2027",
+      "summary": "Master FLLA Errachidia 2026-2027FLLA ErrachidiaFLLA Errachidia Master 2026-2027Faculté des Langues, Lettres et Arts de Errachidiaماستر الرشيدية 2026FLLA ErrachidiaMaster FLLA Errachidia 2026ماستر كلية اللغات والآداب والفنون الرشيدية 2026-2027Masters FLLA Errachidia 2026FLLA Errachidia MasterMaster FLLA Errachidia 2026-2027Master Errachidia 2026Masters FLLA E",
+      "siteName": "AlMaster Maroc - FLLA Masters",
+      "siteUrl": "https://www.almaster-maroc.com/search/label/FLLA",
+      "discoveryUrl": "https://www.almaster-maroc.com/2026/07/master-flla-errachidia-2026-2027.html",
+      "officialUrl": "https://candidature.umi.ac.ma/",
+      "primaryUrl": "https://candidature.umi.ac.ma/",
+      "sourceType": "Aggregator",
+      "programmeType": "Master",
+      "focuses": [
+        "English Studies",
+        "Linguistics"
+      ],
+      "keywords": [
+        "Master",
+        "ماستر",
+        "English",
+        "اللسانيات",
+        "لسانيات",
+        "Communication",
+        "التواصل",
+        "الثقافة",
+        "الإعلام"
+      ],
+      "confidence": {
+        "level": "Good",
+        "score": 76
+      },
+      "status": "Done",
+      "deadline": "2026-09-08",
+      "daysRemaining": null,
+      "sortGroup": 4,
+      "firstSeenAt": "2026-07-31 21:59:24",
+      "lastSeenAt": "2026-08-14T12:13:48.149Z",
+      "initialDone": true
+    },
+    {
+      "id": "ec091a819b82a165",
+      "title": "Licence d'Excellence FLLA Errachidia 2026-2027",
+      "additionalNames": [],
+      "announcementTitle": "Licence d'Excellence FLLA Errachidia 2026-2027",
+      "summary": "cence d'Excellence à la FLLA Errachidia 2026-2027. اجازة التميز كلية اللغات والآداب والفنون الرشيدية 2026-2027 FLLA Errachidia Licence d'Excellence 2026-2027 La Faculté des Langues, Lettres et Arts de Errachidia (FLLA Errachidia), Lance Inscription Licence d'Excellence 2026-2027. Licence d'Excellence FLLA Errachidia 2026-2027 اجازة التميز اللسانيات العربية و",
+      "siteName": "Licence Professionnelle Maroc - 2026-2027",
+      "siteUrl": "https://www.licence-professionnelle-maroc.com/",
+      "discoveryUrl": "https://www.licence-professionnelle-maroc.com/2026/07/licence-dexcellence-flla-errachidia.html",
+      "officialUrl": "",
+      "primaryUrl": "https://www.licence-professionnelle-maroc.com/2026/07/licence-dexcellence-flla-errachidia.html",
+      "sourceType": "Aggregator",
+      "programmeType": "Licence d'Excellence",
+      "focuses": [
+        "Linguistics",
+        "Licence d'Excellence"
+      ],
+      "keywords": [
+        "Master",
+        "Licence d'Excellence",
+        "اللسانيات",
+        "لسانيات",
+        "التواصل",
+        "الثقافة",
+        "الإعلام"
+      ],
+      "confidence": {
+        "level": "Review",
+        "score": 62
+      },
+      "status": "Done",
+      "deadline": "2026-09-03",
+      "daysRemaining": null,
+      "sortGroup": 4,
+      "firstSeenAt": "2026-07-31 21:59:41",
+      "lastSeenAt": "2026-07-31 21:59:41",
+      "initialDone": true
+    },
+    {
+      "id": "0477f3d1df5cb49a",
+      "title": "اللغات والترجمة",
+      "additionalNames": [],
+      "announcementTitle": "UCA Marrakech - FLA Master Candidature 2026-2027",
+      "summary": "Date d'ouverture: 26-06-2026 | Date de fermeture de candidature en ligne: 20-08-2026 | Candidature aux masters Pour l'année universitaire 2026-2027 La Faculté de langue arabe lance un appel à candidature pour les Masters suivants Département Masters Responsable E-mail Effectif maximal اللغة العربية وفقههاالنحو والنص الأستاذة ربيعة العمراني الإدريسيra.omrani@",
+      "siteName": "UCA Marrakech - FLA Master Candidature 2026-2027",
+      "siteUrl": "https://e-candidature.uca.ma/master.fla/",
+      "discoveryUrl": "https://e-candidature.uca.ma/master.fla/",
+      "officialUrl": "",
+      "primaryUrl": "https://e-candidature.uca.ma/master.fla/",
+      "sourceType": "Official",
+      "programmeType": "Master",
+      "focuses": [
+        "Translation"
+      ],
+      "keywords": [
+        "Master",
+        "ماستر",
+        "الترجمة",
+        "ترجمة"
+      ],
+      "confidence": {
+        "level": "Strong",
+        "score": 94
+      },
+      "status": "Done",
+      "deadline": "2026-08-20",
+      "daysRemaining": null,
+      "sortGroup": 4,
+      "firstSeenAt": "2026-07-04 12:11:45",
+      "lastSeenAt": "2026-08-14T12:11:45.510Z",
+      "initialDone": true
+    },
+    {
+      "id": "519bb18bc661bad6",
+      "title": "Master de Didactique des Langues, de la Culture et de la Communication : Option Anglais",
+      "additionalNames": [],
+      "announcementTitle": "Candidature Master",
+      "summary": "Date d'ouverture: 19-06-2026 | Date de fermeture de candidature en ligne: 11-07-2026 | Accueil Accueil Procédures Inscription Connexion Contactez nous Probléme d'inscription Demande d'information menu Accueil Procédures Inscription Contactez nous Connexion Candidature aux masters Pour l'année universitaire 2026-2027 L'Ecole Normale Supérieure de Marrakech la",
+      "siteName": "UCA Marrakech - ENS Master Candidature 2026-2027",
+      "siteUrl": "https://e-candidature.uca.ma/master.ens/",
+      "discoveryUrl": "https://e-candidature.uca.ma/master.ens/",
+      "officialUrl": "",
+      "primaryUrl": "https://e-candidature.uca.ma/master.ens/",
+      "sourceType": "Official",
+      "programmeType": "Master",
+      "focuses": [
+        "English Studies",
+        "Teaching / Didactics"
+      ],
+      "keywords": [
+        "Master",
+        "Anglais",
+        "Didactique",
+        "Communication",
+        "Culture"
+      ],
+      "confidence": {
+        "level": "Good",
+        "score": 77
+      },
+      "status": "Done",
+      "deadline": "2026-07-11",
+      "daysRemaining": null,
+      "sortGroup": 4,
+      "firstSeenAt": "2026-07-04 12:11:45",
+      "lastSeenAt": "2026-07-04 12:11:45",
+      "initialDone": true
+    },
+    {
+      "id": "f3e985ccd92e7959",
+      "title": "Linguistics and Advanced English Studies",
+      "additionalNames": [],
+      "announcementTitle": "Candidature Master",
+      "summary": "Date d'ouverture: 18-06-2026 | Date de fermeture de candidature en ligne: 05-07-2026 | Accueil Accueil Procédures Inscription Connexion Contactez nous Probléme d'inscription Demande d'information menu Accueil Procédures Inscription Contactez nous Connexion Candidature aux masters Pour l'année universitaire 2026-2027 نتائج مباراة ولوج سلك الماستر برسم الموسم ",
+      "siteName": "UCA Marrakech - FLSH Master Candidature 2026-2027",
+      "siteUrl": "https://e-candidature.uca.ma/master.flsh/",
+      "discoveryUrl": "https://e-candidature.uca.ma/master.flsh/",
+      "officialUrl": "",
+      "primaryUrl": "https://e-candidature.uca.ma/master.flsh/",
+      "sourceType": "Official",
+      "programmeType": "Master",
+      "focuses": [
+        "English Studies",
+        "Linguistics"
+      ],
+      "keywords": [
+        "Master",
+        "ماستر",
+        "English",
+        "Anglaises",
+        "English Studies",
+        "Linguistics",
+        "Linguistiques"
+      ],
+      "confidence": {
+        "level": "Saved",
+        "score": null
+      },
+      "status": "Done",
+      "deadline": "2026-07-05",
+      "daysRemaining": null,
+      "sortGroup": 4,
+      "firstSeenAt": "2026-07-04 12:11:45",
+      "lastSeenAt": "2026-07-04 12:11:45",
+      "initialDone": true
+    }
+  ],
+  "sources": [
+    {
+      "name": "UCA Marrakech - Official Candidature Portal",
+      "url": "https://e-candidature.uca.ma/",
+      "status": "ok",
+      "matches": 0,
+      "checkedAt": "2026-08-14T12:11:43.317Z",
+      "durationMs": 4312,
+      "error": null
+    },
+    {
+      "name": "UCA Marrakech FLAM - Master Applications 2026-2027",
+      "url": "https://www.uca.ma/flam/fr/news/candidature-aux-masters-pour-lannee-universitaire-20262027",
+      "status": "ok",
+      "matches": 1,
+      "checkedAt": "2026-08-14T12:11:44.922Z",
+      "durationMs": 1604,
+      "error": null
+    },
+    {
+      "name": "UCA Marrakech - FLA Master Candidature 2026-2027",
+      "url": "https://e-candidature.uca.ma/master.fla/",
+      "status": "ok",
+      "matches": 1,
+      "checkedAt": "2026-08-14T12:11:45.511Z",
+      "durationMs": 589,
+      "error": null
+    },
+    {
+      "name": "UCA Marrakech - FLSH Master Candidature 2026-2027",
+      "url": "https://e-candidature.uca.ma/master.flsh/",
+      "status": "ok",
+      "matches": 0,
+      "checkedAt": "2026-08-14T12:11:49.774Z",
+      "durationMs": 4263,
+      "error": null
+    },
+    {
+      "name": "UCA Marrakech - ENS Master Candidature 2026-2027",
+      "url": "https://e-candidature.uca.ma/master.ens/",
+      "status": "ok",
+      "matches": 0,
+      "checkedAt": "2026-08-14T12:11:50.213Z",
+      "durationMs": 438,
+      "error": null
+    },
+    {
+      "name": "FLSH Marrakech - Linguistics and Advanced English Studies",
+      "url": "https://flsh.uca.ma/linguistics-and-advanced-english-studies/",
+      "status": "ok",
+      "matches": 0,
+      "checkedAt": "2026-08-14T12:11:54.550Z",
+      "durationMs": 4337,
+      "error": null
+    },
+    {
+      "name": "UCA Marrakech - Linguistics and Advanced English Studies",
+      "url": "https://www.uca.ma/fr/formations/formation-initiale/linguistics-and-advanced-english-studies",
+      "status": "ok",
+      "matches": 0,
+      "checkedAt": "2026-08-14T12:11:56.406Z",
+      "durationMs": 1856,
+      "error": null
+    },
+    {
+      "name": "ENS Marrakech - Master Announcements",
+      "url": "https://ens.uca.ma/",
+      "status": "ok",
+      "matches": 0,
+      "checkedAt": "2026-08-14T12:11:59.282Z",
+      "durationMs": 2876,
+      "error": null
+    },
+    {
+      "name": "ESRFT Tanger - Traduction",
+      "url": "https://esrft.ma/",
+      "status": "ok",
+      "matches": 2,
+      "checkedAt": "2026-08-14T12:12:03.664Z",
+      "durationMs": 4382,
+      "error": null
+    },
+    {
+      "name": "FSE Rabat - Applied Linguistics and ELT",
+      "url": "https://fse.um5.ac.ma/",
+      "status": "ok",
+      "matches": 0,
+      "checkedAt": "2026-08-14T12:12:05.447Z",
+      "durationMs": 1783,
+      "error": null
+    },
+    {
+      "name": "ENS Rabat - Master Pre-registration 2026-2027",
+      "url": "https://ens.um5.ac.ma/affiche-annonce-22",
+      "status": "ok",
+      "matches": 0,
+      "checkedAt": "2026-08-14T12:12:07.476Z",
+      "durationMs": 2029,
+      "error": null
+    },
+    {
+      "name": "ENS Rabat - TESOL Programmes",
+      "url": "https://ens.um5.ac.ma/coordonnateurs-des-filieres",
+      "status": "ok",
+      "matches": 0,
+      "checkedAt": "2026-08-14T12:12:08.255Z",
+      "durationMs": 779,
+      "error": null
+    },
+    {
+      "name": "ENS Meknes - English Masters",
+      "url": "https://www.ens.umi.ac.ma/formations/master/",
+      "status": "ok",
+      "matches": 0,
+      "checkedAt": "2026-08-14T12:12:13.472Z",
+      "durationMs": 5217,
+      "error": null
+    },
+    {
+      "name": "ENS Meknes - Official Registration Portal",
+      "url": "https://ens-umi-inscription.com/",
+      "status": "ok",
+      "matches": 0,
+      "checkedAt": "2026-08-14T12:12:15.122Z",
+      "durationMs": 1650,
+      "error": null
+    },
+    {
+      "name": "Ibn Zohr University - Applied Linguistics and ELT",
+      "url": "https://www.uiz.ac.ma/node/182",
+      "status": "ok",
+      "matches": 0,
+      "checkedAt": "2026-08-14T12:12:15.935Z",
+      "durationMs": 813,
+      "error": null
+    },
+    {
+      "name": "UAE Tetouan - Interdisciplinary English Studies",
+      "url": "https://www.uae.ac.ma/formations/flsh/interdisciplinary-studies-english-language-culture-literature-options-1",
+      "status": "ok",
+      "matches": 0,
+      "checkedAt": "2026-08-14T12:12:51.579Z",
+      "durationMs": 35644,
+      "error": null
+    },
+    {
+      "name": "FSHS Kenitra - Masters",
+      "url": "https://fshs.uit.ac.ma/%D8%A7%D9%84%D8%B4%D8%B9%D8%A8/%D8%A7%D9%84%D9%85%D8%A7%D8%B3%D8%AA%D8%B1/",
+      "status": "ok",
+      "matches": 0,
+      "checkedAt": "2026-08-14T12:13:22.590Z",
+      "durationMs": 31011,
+      "error": null
+    },
+    {
+      "name": "UMP Oujda - Licence Professionnelle Litterature et Traduction",
+      "url": "https://www.ump.ma/fr/licence-professionnelle-lp",
+      "status": "ok",
+      "matches": 0,
+      "checkedAt": "2026-08-14T12:13:26.665Z",
+      "durationMs": 4075,
+      "error": null
+    },
+    {
+      "name": "FLASH Settat - English Masters",
+      "url": "https://www-flash.uh1.ac.ma/",
+      "status": "ok",
+      "matches": 0,
+      "checkedAt": "2026-08-14T12:13:35.173Z",
+      "durationMs": 8508,
+      "error": null
+    },
+    {
+      "name": "AlMaster Maroc - Master 2026-2027",
+      "url": "https://www.almaster-maroc.com/",
+      "status": "ok",
+      "matches": 10,
+      "checkedAt": "2026-08-14T12:13:39.516Z",
+      "durationMs": 4343,
+      "error": null
+    },
+    {
+      "name": "AlMaster Maroc - FLSH Masters",
+      "url": "https://www.almaster-maroc.com/search/label/FLSH",
+      "status": "ok",
+      "matches": 5,
+      "checkedAt": "2026-08-14T12:13:46.530Z",
+      "durationMs": 7014,
+      "error": null
+    },
+    {
+      "name": "AlMaster Maroc - FLA Masters",
+      "url": "https://www.almaster-maroc.com/search/label/FLA",
+      "status": "ok",
+      "matches": 1,
+      "checkedAt": "2026-08-14T12:13:47.314Z",
+      "durationMs": 784,
+      "error": null
+    },
+    {
+      "name": "AlMaster Maroc - FLLA Masters",
+      "url": "https://www.almaster-maroc.com/search/label/FLLA",
+      "status": "ok",
+      "matches": 1,
+      "checkedAt": "2026-08-14T12:13:48.149Z",
+      "durationMs": 835,
+      "error": null
+    },
+    {
+      "name": "AlMaster Maroc - FSHS Masters",
+      "url": "https://www.almaster-maroc.com/search/label/FSHS",
+      "status": "ok",
+      "matches": 0,
+      "checkedAt": "2026-08-14T12:13:48.767Z",
+      "durationMs": 618,
+      "error": null
+    },
+    {
+      "name": "AlMaster Maroc - ESRFT Masters",
+      "url": "https://www.almaster-maroc.com/search/label/ESRFT",
+      "status": "ok",
+      "matches": 0,
+      "checkedAt": "2026-08-14T12:13:49.262Z",
+      "durationMs": 495,
+      "error": null
+    },
+    {
+      "name": "AlMaster Maroc - FLASH Masters",
+      "url": "https://www.almaster-maroc.com/search/label/FLASH",
+      "status": "ok",
+      "matches": 0,
+      "checkedAt": "2026-08-14T12:13:50.102Z",
+      "durationMs": 840,
+      "error": null
+    },
+    {
+      "name": "AlMaster Maroc - FSE Masters",
+      "url": "https://www.almaster-maroc.com/search/label/FSE",
+      "status": "ok",
+      "matches": 1,
+      "checkedAt": "2026-08-14T12:13:50.927Z",
+      "durationMs": 825,
+      "error": null
+    },
+    {
+      "name": "Licence Professionnelle Maroc - 2026-2027",
+      "url": "https://www.licence-professionnelle-maroc.com/",
+      "status": "ok",
+      "matches": 1,
+      "checkedAt": "2026-08-14T12:13:52.713Z",
+      "durationMs": 1786,
+      "error": null
+    },
+    {
+      "name": "Licence Professionnelle Maroc - LP",
+      "url": "https://www.licence-professionnelle-maroc.com/search/label/Licence%20Professionnelle",
+      "status": "ok",
+      "matches": 0,
+      "checkedAt": "2026-08-14T12:13:54.289Z",
+      "durationMs": 1576,
+      "error": null
+    },
+    {
+      "name": "Licence Professionnelle Maroc - FLSH",
+      "url": "https://www.licence-professionnelle-maroc.com/search/label/FLSH",
+      "status": "ok",
+      "matches": 1,
+      "checkedAt": "2026-08-14T12:13:55.909Z",
+      "durationMs": 1620,
+      "error": null
+    },
+    {
+      "name": "Licence Professionnelle Maroc - FLASH",
+      "url": "https://www.licence-professionnelle-maroc.com/search/label/FLASH",
+      "status": "ok",
+      "matches": 0,
+      "checkedAt": "2026-08-14T12:13:56.392Z",
+      "durationMs": 483,
+      "error": null
+    },
+    {
+      "name": "FS Dhar El Mahraz Fes - Master & Licence Excellence",
+      "url": "https://www.fsdm.usmba.ac.ma/News/1218/show",
+      "status": "ok",
+      "matches": 0,
+      "checkedAt": "2026-08-14T12:13:56.685Z",
+      "durationMs": 293,
+      "error": null
+    },
+    {
+      "name": "Faculte Polydisciplinaire Beni Mellal - Concours",
+      "url": "https://www.fpbm.ma/new/concours/",
+      "status": "ok",
+      "matches": 0,
+      "checkedAt": "2026-08-14T12:13:58.345Z",
+      "durationMs": 1660,
+      "error": null
+    },
+    {
+      "name": "Faculte Polydisciplinaire Larache - Parcours Excellence",
+      "url": "https://fpl.ac.ma/site/category/parcours-dexcellence/",
+      "status": "ok",
+      "matches": 0,
+      "checkedAt": "2026-08-14T12:14:14.333Z",
+      "durationMs": 15988,
+      "error": null
+    }
+  ],
+  "runs": [
+    {
+      "startedAt": "2026-08-14T12:11:39.006Z",
+      "completedAt": "2026-08-14T12:14:14.390Z",
+      "status": "completed",
+      "sitesChecked": 34,
+      "healthySites": 34,
+      "matchesFound": 24,
+      "newOpportunities": 0,
+      "telegramSent": 0,
+      "telegramError": null,
+      "durationMs": 155384
+    },
+    {
+      "startedAt": "2026-08-12 20:09:05",
+      "completedAt": "2026-08-12 20:11:32",
+      "status": "completed",
+      "sitesChecked": 34,
+      "healthySites": 34,
+      "matchesFound": 24,
+      "newOpportunities": 0,
+      "telegramSent": 0,
+      "telegramError": null,
+      "durationMs": 147748
+    },
+    {
+      "startedAt": "2026-08-12 18:41:42",
+      "completedAt": "2026-08-12 18:46:59",
+      "status": "completed",
+      "sitesChecked": 34,
+      "healthySites": 34,
+      "matchesFound": 24,
+      "newOpportunities": 0,
+      "telegramSent": 0,
+      "telegramError": null,
+      "durationMs": 316975
+    },
+    {
+      "startedAt": "2026-08-12 17:49:08",
+      "completedAt": "2026-08-12 17:52:06",
+      "status": "completed",
+      "sitesChecked": 34,
+      "healthySites": 34,
+      "matchesFound": 24,
+      "newOpportunities": 0,
+      "telegramSent": 0,
+      "telegramError": null,
+      "durationMs": 178823
+    }
+  ]
+}

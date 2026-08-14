@@ -1,0 +1,143 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Morocco English Studies Master and Licence opportunity monitor for 2026-2027.">
+  <title>English Studies Opportunities</title>
+  <link rel="stylesheet" href="./styles.css">
+  <script src="https://unpkg.com/lucide@0.468.0/dist/umd/lucide.min.js" defer></script>
+  <script src="./app.js" defer></script>
+</head>
+<body>
+  <header class="app-header">
+    <div class="header-inner">
+      <div class="brand-block">
+        <p class="eyebrow">Morocco academic watchlist</p>
+        <h1>English Studies Opportunities</h1>
+        <p class="subtitle">English-related Masters, Licences Professionnelles and Licences d'Excellence.</p>
+      </div>
+      <div class="header-actions">
+        <button class="icon-command" type="button" id="refreshButton" title="Refresh published data">
+          <i data-lucide="refresh-cw" aria-hidden="true"></i>
+          <span>Refresh</span>
+        </button>
+        <button class="icon-command secondary" type="button" id="themeButton" title="Change color theme" aria-pressed="false">
+          <i data-lucide="sun" aria-hidden="true"></i>
+          <span id="themeLabel">Light</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="status-band" aria-live="polite">
+      <div class="section-inner status-line">
+        <span class="live-dot" aria-hidden="true"></span>
+        <strong id="cloudStatus">Loading cloud monitor...</strong>
+        <span id="lastUpdated"></span>
+      </div>
+    </section>
+
+    <section class="overview-band">
+      <div class="section-inner">
+        <div class="section-heading overview-heading">
+          <div>
+            <p class="eyebrow">2026-2027 priority view</p>
+            <h2>Opportunity dashboard</h2>
+          </div>
+          <div class="cycle-chip" id="cycleChip">2026-2027 cycle</div>
+        </div>
+        <div class="stat-grid" id="statGrid" aria-label="Opportunity summary"></div>
+      </div>
+    </section>
+
+    <section class="opportunities-band">
+      <div class="section-inner">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Action workspace</p>
+            <h2>Opportunities to watch</h2>
+          </div>
+          <strong class="result-count"><span id="visibleCount">0</span> shown</strong>
+        </div>
+
+        <div class="filters" aria-label="Opportunity filters">
+          <div class="field search-field">
+            <label for="searchInput">Search</label>
+            <div class="input-with-icon">
+              <i data-lucide="search" aria-hidden="true"></i>
+              <input id="searchInput" type="search" placeholder="Programme or university" autocomplete="off">
+            </div>
+          </div>
+          <div class="field">
+            <label for="statusFilter">Status</label>
+            <select id="statusFilter">
+              <option value="all">All statuses</option>
+              <option value="open">Open</option>
+              <option value="unknown">Deadline unknown</option>
+              <option value="closed">Closed</option>
+              <option value="done">Done</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="programmeFilter">Programme</label>
+            <select id="programmeFilter">
+              <option value="all">Master and Licence</option>
+              <option value="master">Master</option>
+              <option value="licence">Licence</option>
+            </select>
+          </div>
+          <div class="field">
+            <label for="sourceFilter">Source</label>
+            <select id="sourceFilter">
+              <option value="all">All sources</option>
+              <option value="official">Official</option>
+              <option value="aggregator">Aggregator</option>
+            </select>
+          </div>
+          <button class="clear-button" type="button" id="clearFilters" title="Clear all filters">
+            <i data-lucide="x" aria-hidden="true"></i>
+            <span>Clear</span>
+          </button>
+        </div>
+
+        <div class="opportunity-grid" id="opportunityGrid">
+          <div class="empty-state">Loading opportunities...</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="audit-band">
+      <div class="section-inner audit-layout">
+        <div>
+          <div class="section-heading compact">
+            <div>
+              <p class="eyebrow">Reliability</p>
+              <h2>Source health</h2>
+            </div>
+            <span class="health-total" id="sourceHealthTotal">0 sources</span>
+          </div>
+          <div class="source-list" id="sourceList"></div>
+        </div>
+        <div>
+          <div class="section-heading compact">
+            <div>
+              <p class="eyebrow">Audit trail</p>
+              <h2>Recent scans</h2>
+            </div>
+          </div>
+          <div class="run-list" id="runList"></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="section-inner footer-inner">
+      <p>Automatic daily scan. Always confirm requirements and deadlines on the official university page.</p>
+      <p>Done status is saved privately on this device.</p>
+    </div>
+  </footer>
+</body>
+</html>
