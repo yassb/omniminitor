@@ -172,7 +172,18 @@ button:disabled { opacity: 0.58; cursor: wait; }
   justify-content: center;
   gap: 8px;
   min-width: 112px;
+  min-height: 42px;
+  padding: 9px 14px;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  background: var(--teal);
+  color: #062724;
+  font-weight: 750;
+  text-decoration: none;
+  cursor: pointer;
 }
+
+.icon-command:hover { filter: brightness(1.06); }
 
 .icon-command svg,
 .clear-button svg,
@@ -563,6 +574,7 @@ footer { background: var(--bg); }
   h1 { font-size: 27px; }
   .header-actions { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .icon-command { width: 100%; min-width: 0; }
+  .header-actions .icon-command:last-child { grid-column: 1 / -1; }
   .status-line { align-items: flex-start; flex-wrap: wrap; padding: 13px 0; }
   .overview-band,
   .opportunities-band,
