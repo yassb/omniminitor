@@ -1,18 +1,18 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-29T13:13:50.794Z",
+  "generatedAt": "2026-08-30T12:59:47.000Z",
   "targetCycle": "2026-2027",
   "lastScan": {
-    "startedAt": "2026-08-29T13:11:11.946Z",
-    "completedAt": "2026-08-29T13:13:50.760Z",
+    "startedAt": "2026-08-30T12:56:42.123Z",
+    "completedAt": "2026-08-30T12:59:46.956Z",
     "status": "completed-with-errors",
     "sitesChecked": 34,
     "healthySites": 33,
     "matchesFound": 25,
-    "newOpportunities": 1,
+    "newOpportunities": 0,
     "telegramSent": 0,
-    "telegramError": "Telegram delivery failed",
-    "durationMs": 158814
+    "telegramError": null,
+    "durationMs": 184833
   },
   "stats": {
     "opportunities": 24,
@@ -59,10 +59,10 @@
       },
       "status": "Open",
       "deadline": "2026-09-08",
-      "daysRemaining": 10,
+      "daysRemaining": 9,
       "sortGroup": 0,
       "firstSeenAt": "2026-07-31 21:59:41",
-      "lastSeenAt": "2026-08-29T13:13:39.161Z",
+      "lastSeenAt": "2026-08-30T12:59:28.562Z",
       "initialDone": false
     },
     {
@@ -101,10 +101,10 @@
       },
       "status": "Open",
       "deadline": "2026-09-08",
-      "daysRemaining": 10,
+      "daysRemaining": 9,
       "sortGroup": 0,
       "firstSeenAt": "2026-07-31 21:59:28",
-      "lastSeenAt": "2026-08-29T13:13:36.125Z",
+      "lastSeenAt": "2026-08-30T12:59:24.977Z",
       "initialDone": false
     },
     {
@@ -140,10 +140,10 @@
       },
       "status": "Open",
       "deadline": "2026-09-08",
-      "daysRemaining": 10,
+      "daysRemaining": 9,
       "sortGroup": 0,
       "firstSeenAt": "2026-08-12 16:44:09",
-      "lastSeenAt": "2026-08-29T13:13:35.640Z",
+      "lastSeenAt": "2026-08-30T12:59:24.261Z",
       "initialDone": false
     },
     {
@@ -179,10 +179,10 @@
       },
       "status": "Open",
       "deadline": "2026-09-10",
-      "daysRemaining": 12,
+      "daysRemaining": 11,
       "sortGroup": 0,
       "firstSeenAt": "2026-08-12 16:44:08",
-      "lastSeenAt": "2026-08-29T13:13:36.125Z",
+      "lastSeenAt": "2026-08-30T12:59:24.977Z",
       "initialDone": false
     },
     {
@@ -215,7 +215,7 @@
       "daysRemaining": null,
       "sortGroup": 1,
       "firstSeenAt": "2026-08-29T13:11:52.467Z",
-      "lastSeenAt": "2026-08-29T13:11:52.467Z",
+      "lastSeenAt": "2026-08-30T12:57:26.549Z",
       "initialDone": false
     },
     {
@@ -250,7 +250,7 @@
       "daysRemaining": null,
       "sortGroup": 1,
       "firstSeenAt": "2026-08-25T08:02:55.465Z",
-      "lastSeenAt": "2026-08-29T13:13:36.125Z",
+      "lastSeenAt": "2026-08-30T12:59:24.977Z",
       "initialDone": false
     },
     {
@@ -354,7 +354,7 @@
       "daysRemaining": null,
       "sortGroup": 1,
       "firstSeenAt": "2026-08-12 16:44:34",
-      "lastSeenAt": "2026-08-29T13:13:36.468Z",
+      "lastSeenAt": "2026-08-30T12:59:25.361Z",
       "initialDone": false
     },
     {
@@ -426,7 +426,7 @@
       "daysRemaining": null,
       "sortGroup": 1,
       "firstSeenAt": "2026-08-12 16:44:08",
-      "lastSeenAt": "2026-08-29T13:13:35.639Z",
+      "lastSeenAt": "2026-08-30T12:59:24.261Z",
       "initialDone": false
     },
     {
@@ -457,7 +457,7 @@
       "daysRemaining": null,
       "sortGroup": 1,
       "firstSeenAt": "2026-08-05 22:57:09",
-      "lastSeenAt": "2026-08-29T13:11:52.467Z",
+      "lastSeenAt": "2026-08-30T12:57:26.549Z",
       "initialDone": false
     },
     {
@@ -488,7 +488,7 @@
       "daysRemaining": null,
       "sortGroup": 1,
       "firstSeenAt": "2026-08-05 22:57:09",
-      "lastSeenAt": "2026-08-29T13:11:52.466Z",
+      "lastSeenAt": "2026-08-30T12:57:26.548Z",
       "initialDone": false
     },
     {
@@ -521,7 +521,7 @@
       "daysRemaining": null,
       "sortGroup": 1,
       "firstSeenAt": "2026-07-31 21:59:32",
-      "lastSeenAt": "2026-08-29T13:13:37.592Z",
+      "lastSeenAt": "2026-08-30T12:59:26.685Z",
       "initialDone": false
     },
     {
@@ -559,7 +559,7 @@
       "daysRemaining": null,
       "sortGroup": 1,
       "firstSeenAt": "2026-07-31 21:59:28",
-      "lastSeenAt": "2026-08-29T13:13:36.125Z",
+      "lastSeenAt": "2026-08-30T12:59:24.977Z",
       "initialDone": false
     },
     {
@@ -596,7 +596,7 @@
       "daysRemaining": null,
       "sortGroup": 1,
       "firstSeenAt": "2026-07-31 21:59:24",
-      "lastSeenAt": "2026-08-29T13:13:36.124Z",
+      "lastSeenAt": "2026-08-30T12:59:24.977Z",
       "initialDone": false
     },
     {
@@ -667,10 +667,10 @@
       },
       "status": "Closed",
       "deadline": "2026-08-25",
-      "daysRemaining": -4,
+      "daysRemaining": -5,
       "sortGroup": 3,
       "firstSeenAt": "2026-08-12 16:44:09",
-      "lastSeenAt": "2026-08-29T13:13:36.125Z",
+      "lastSeenAt": "2026-08-30T12:59:24.977Z",
       "initialDone": false
     },
     {
@@ -703,7 +703,7 @@
       },
       "status": "Closed",
       "deadline": "2026-08-23",
-      "daysRemaining": -6,
+      "daysRemaining": -7,
       "sortGroup": 3,
       "firstSeenAt": "2026-08-12 16:44:25",
       "lastSeenAt": "2026-08-12 16:44:25",
@@ -748,7 +748,7 @@
       "daysRemaining": null,
       "sortGroup": 4,
       "firstSeenAt": "2026-07-31 21:59:24",
-      "lastSeenAt": "2026-08-29T13:13:36.672Z",
+      "lastSeenAt": "2026-08-30T12:59:25.617Z",
       "initialDone": true
     },
     {
@@ -820,7 +820,7 @@
       "daysRemaining": null,
       "sortGroup": 4,
       "firstSeenAt": "2026-07-04 12:11:45",
-      "lastSeenAt": "2026-08-29T13:11:28.410Z",
+      "lastSeenAt": "2026-08-30T12:56:57.560Z",
       "initialDone": true
     },
     {
@@ -904,8 +904,8 @@
       "url": "https://e-candidature.uca.ma/",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-08-29T13:11:20.393Z",
-      "durationMs": 8447,
+      "checkedAt": "2026-08-30T12:56:51.582Z",
+      "durationMs": 9459,
       "error": null
     },
     {
@@ -913,8 +913,8 @@
       "url": "https://www.uca.ma/flam/fr/news/candidature-aux-masters-pour-lannee-universitaire-20262027",
       "status": "ok",
       "matches": 1,
-      "checkedAt": "2026-08-29T13:11:27.835Z",
-      "durationMs": 7442,
+      "checkedAt": "2026-08-30T12:56:57.016Z",
+      "durationMs": 5435,
       "error": null
     },
     {
@@ -922,8 +922,8 @@
       "url": "https://e-candidature.uca.ma/master.fla/",
       "status": "ok",
       "matches": 1,
-      "checkedAt": "2026-08-29T13:11:28.410Z",
-      "durationMs": 575,
+      "checkedAt": "2026-08-30T12:56:57.560Z",
+      "durationMs": 543,
       "error": null
     },
     {
@@ -931,8 +931,8 @@
       "url": "https://e-candidature.uca.ma/master.flsh/",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-08-29T13:11:34.321Z",
-      "durationMs": 5911,
+      "checkedAt": "2026-08-30T12:57:05.883Z",
+      "durationMs": 8323,
       "error": null
     },
     {
@@ -940,8 +940,8 @@
       "url": "https://e-candidature.uca.ma/master.ens/",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-08-29T13:11:35.524Z",
-      "durationMs": 1203,
+      "checkedAt": "2026-08-30T12:57:08.450Z",
+      "durationMs": 2567,
       "error": null
     },
     {
@@ -949,8 +949,8 @@
       "url": "https://flsh.uca.ma/linguistics-and-advanced-english-studies/",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-08-29T13:11:40.570Z",
-      "durationMs": 5046,
+      "checkedAt": "2026-08-30T12:57:12.417Z",
+      "durationMs": 3967,
       "error": null
     },
     {
@@ -958,8 +958,8 @@
       "url": "https://www.uca.ma/fr/formations/formation-initiale/linguistics-and-advanced-english-studies",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-08-29T13:11:42.775Z",
-      "durationMs": 2205,
+      "checkedAt": "2026-08-30T12:57:17.774Z",
+      "durationMs": 5357,
       "error": null
     },
     {
@@ -967,8 +967,8 @@
       "url": "https://ens.uca.ma/",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-08-29T13:11:49.195Z",
-      "durationMs": 6420,
+      "checkedAt": "2026-08-30T12:57:23.530Z",
+      "durationMs": 5756,
       "error": null
     },
     {
@@ -976,8 +976,8 @@
       "url": "https://esrft.ma/",
       "status": "ok",
       "matches": 3,
-      "checkedAt": "2026-08-29T13:11:52.467Z",
-      "durationMs": 3272,
+      "checkedAt": "2026-08-30T12:57:26.549Z",
+      "durationMs": 3019,
       "error": null
     },
     {
@@ -985,8 +985,8 @@
       "url": "https://fse.um5.ac.ma/",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-08-29T13:11:55.687Z",
-      "durationMs": 3220,
+      "checkedAt": "2026-08-30T12:57:37.902Z",
+      "durationMs": 11353,
       "error": null
     },
     {
@@ -994,8 +994,8 @@
       "url": "https://ens.um5.ac.ma/affiche-annonce-22",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-08-29T13:11:57.047Z",
-      "durationMs": 1360,
+      "checkedAt": "2026-08-30T12:57:43.473Z",
+      "durationMs": 5571,
       "error": null
     },
     {
@@ -1003,8 +1003,8 @@
       "url": "https://ens.um5.ac.ma/coordonnateurs-des-filieres",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-08-29T13:11:57.411Z",
-      "durationMs": 364,
+      "checkedAt": "2026-08-30T12:57:43.793Z",
+      "durationMs": 320,
       "error": null
     },
     {
@@ -1012,8 +1012,8 @@
       "url": "https://www.ens.umi.ac.ma/formations/master/",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-08-29T13:12:04.127Z",
-      "durationMs": 6716,
+      "checkedAt": "2026-08-30T12:57:50.659Z",
+      "durationMs": 6866,
       "error": null
     },
     {
@@ -1021,8 +1021,8 @@
       "url": "https://ens-umi-inscription.com/",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-08-29T13:12:05.636Z",
-      "durationMs": 1509,
+      "checkedAt": "2026-08-30T12:57:51.839Z",
+      "durationMs": 1180,
       "error": null
     },
     {
@@ -1030,8 +1030,8 @@
       "url": "https://www.uiz.ac.ma/node/182",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-08-29T13:12:10.586Z",
-      "durationMs": 4950,
+      "checkedAt": "2026-08-30T12:57:54.073Z",
+      "durationMs": 2234,
       "error": null
     },
     {
@@ -1039,8 +1039,8 @@
       "url": "https://www.uae.ac.ma/formations/flsh/interdisciplinary-studies-english-language-culture-literature-options-1",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-08-29T13:12:45.072Z",
-      "durationMs": 34486,
+      "checkedAt": "2026-08-30T12:58:27.410Z",
+      "durationMs": 33337,
       "error": null
     },
     {
@@ -1048,8 +1048,8 @@
       "url": "https://fshs.uit.ac.ma/%D8%A7%D9%84%D8%B4%D8%B9%D8%A8/%D8%A7%D9%84%D9%85%D8%A7%D8%B3%D8%AA%D8%B1/",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-08-29T13:12:52.508Z",
-      "durationMs": 7436,
+      "checkedAt": "2026-08-30T12:58:34.881Z",
+      "durationMs": 7471,
       "error": null
     },
     {
@@ -1057,8 +1057,8 @@
       "url": "https://www.ump.ma/fr/licence-professionnelle-lp",
       "status": "error",
       "matches": 0,
-      "checkedAt": "2026-08-29T13:13:25.306Z",
-      "durationMs": 32798,
+      "checkedAt": "2026-08-30T12:59:07.667Z",
+      "durationMs": 32786,
       "error": "fetch failed"
     },
     {
@@ -1066,8 +1066,8 @@
       "url": "https://www-flash.uh1.ac.ma/",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-08-29T13:13:34.815Z",
-      "durationMs": 9509,
+      "checkedAt": "2026-08-30T12:59:23.309Z",
+      "durationMs": 15642,
       "error": null
     },
     {
@@ -1075,8 +1075,8 @@
       "url": "https://www.almaster-maroc.com/",
       "status": "ok",
       "matches": 9,
-      "checkedAt": "2026-08-29T13:13:35.640Z",
-      "durationMs": 825,
+      "checkedAt": "2026-08-30T12:59:24.261Z",
+      "durationMs": 952,
       "error": null
     },
     {
@@ -1084,8 +1084,8 @@
       "url": "https://www.almaster-maroc.com/search/label/FLSH",
       "status": "ok",
       "matches": 6,
-      "checkedAt": "2026-08-29T13:13:36.125Z",
-      "durationMs": 485,
+      "checkedAt": "2026-08-30T12:59:24.977Z",
+      "durationMs": 716,
       "error": null
     },
     {
@@ -1093,8 +1093,8 @@
       "url": "https://www.almaster-maroc.com/search/label/FLA",
       "status": "ok",
       "matches": 1,
-      "checkedAt": "2026-08-29T13:13:36.468Z",
-      "durationMs": 343,
+      "checkedAt": "2026-08-30T12:59:25.361Z",
+      "durationMs": 384,
       "error": null
     },
     {
@@ -1102,8 +1102,8 @@
       "url": "https://www.almaster-maroc.com/search/label/FLLA",
       "status": "ok",
       "matches": 1,
-      "checkedAt": "2026-08-29T13:13:36.672Z",
-      "durationMs": 204,
+      "checkedAt": "2026-08-30T12:59:25.617Z",
+      "durationMs": 256,
       "error": null
     },
     {
@@ -1111,8 +1111,8 @@
       "url": "https://www.almaster-maroc.com/search/label/FSHS",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-08-29T13:13:36.941Z",
-      "durationMs": 269,
+      "checkedAt": "2026-08-30T12:59:25.737Z",
+      "durationMs": 120,
       "error": null
     },
     {
@@ -1120,8 +1120,8 @@
       "url": "https://www.almaster-maroc.com/search/label/ESRFT",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-08-29T13:13:37.124Z",
-      "durationMs": 183,
+      "checkedAt": "2026-08-30T12:59:25.968Z",
+      "durationMs": 231,
       "error": null
     },
     {
@@ -1129,8 +1129,8 @@
       "url": "https://www.almaster-maroc.com/search/label/FLASH",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-08-29T13:13:37.345Z",
-      "durationMs": 221,
+      "checkedAt": "2026-08-30T12:59:26.398Z",
+      "durationMs": 430,
       "error": null
     },
     {
@@ -1138,8 +1138,8 @@
       "url": "https://www.almaster-maroc.com/search/label/FSE",
       "status": "ok",
       "matches": 1,
-      "checkedAt": "2026-08-29T13:13:37.592Z",
-      "durationMs": 247,
+      "checkedAt": "2026-08-30T12:59:26.685Z",
+      "durationMs": 287,
       "error": null
     },
     {
@@ -1147,8 +1147,8 @@
       "url": "https://www.licence-professionnelle-maroc.com/",
       "status": "ok",
       "matches": 1,
-      "checkedAt": "2026-08-29T13:13:38.284Z",
-      "durationMs": 692,
+      "checkedAt": "2026-08-30T12:59:27.469Z",
+      "durationMs": 784,
       "error": null
     },
     {
@@ -1156,8 +1156,8 @@
       "url": "https://www.licence-professionnelle-maroc.com/search/label/Licence%20Professionnelle",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-08-29T13:13:38.794Z",
-      "durationMs": 510,
+      "checkedAt": "2026-08-30T12:59:28.037Z",
+      "durationMs": 568,
       "error": null
     },
     {
@@ -1165,8 +1165,8 @@
       "url": "https://www.licence-professionnelle-maroc.com/search/label/FLSH",
       "status": "ok",
       "matches": 1,
-      "checkedAt": "2026-08-29T13:13:39.161Z",
-      "durationMs": 367,
+      "checkedAt": "2026-08-30T12:59:28.562Z",
+      "durationMs": 525,
       "error": null
     },
     {
@@ -1174,8 +1174,8 @@
       "url": "https://www.licence-professionnelle-maroc.com/search/label/FLASH",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-08-29T13:13:39.394Z",
-      "durationMs": 233,
+      "checkedAt": "2026-08-30T12:59:28.940Z",
+      "durationMs": 378,
       "error": null
     },
     {
@@ -1183,8 +1183,8 @@
       "url": "https://www.fsdm.usmba.ac.ma/News/1218/show",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-08-29T13:13:40.125Z",
-      "durationMs": 731,
+      "checkedAt": "2026-08-30T12:59:31.458Z",
+      "durationMs": 2518,
       "error": null
     },
     {
@@ -1192,8 +1192,8 @@
       "url": "https://www.fpbm.ma/new/concours/",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-08-29T13:13:45.588Z",
-      "durationMs": 5463,
+      "checkedAt": "2026-08-30T12:59:35.997Z",
+      "durationMs": 4539,
       "error": null
     },
     {
@@ -1201,12 +1201,24 @@
       "url": "https://fpl.ac.ma/site/category/parcours-dexcellence/",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-08-29T13:13:50.754Z",
-      "durationMs": 5166,
+      "checkedAt": "2026-08-30T12:59:46.948Z",
+      "durationMs": 10951,
       "error": null
     }
   ],
   "runs": [
+    {
+      "startedAt": "2026-08-30T12:56:42.123Z",
+      "completedAt": "2026-08-30T12:59:46.956Z",
+      "status": "completed-with-errors",
+      "sitesChecked": 34,
+      "healthySites": 33,
+      "matchesFound": 25,
+      "newOpportunities": 0,
+      "telegramSent": 0,
+      "telegramError": null,
+      "durationMs": 184833
+    },
     {
       "startedAt": "2026-08-29T13:11:11.946Z",
       "completedAt": "2026-08-29T13:13:50.760Z",
@@ -1314,18 +1326,6 @@
       "telegramSent": 0,
       "telegramError": null,
       "durationMs": 174676
-    },
-    {
-      "startedAt": "2026-08-20T07:58:36.345Z",
-      "completedAt": "2026-08-20T08:01:40.754Z",
-      "status": "completed-with-errors",
-      "sitesChecked": 34,
-      "healthySites": 33,
-      "matchesFound": 24,
-      "newOpportunities": 1,
-      "telegramSent": 0,
-      "telegramError": "Telegram delivery failed",
-      "durationMs": 184409
     }
   ]
 }
