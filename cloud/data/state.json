@@ -75,7 +75,12 @@
     "https://www.almaster-maroc.com/2026/08/master-flsh-mohammedia-2026-2027.html": "2026-08-16T07:49:48.157Z",
     "https://www-flash.uh1.ac.ma/?p=1678": "2026-08-20T08:01:18.651Z",
     "https://www.almaster-maroc.com/2026/08/master-flsh-ain-chock-casablanca-2026.html": "2026-08-25T08:02:55.465Z",
-    "https://esrft.ma/ckfinder/userfiles/files/prolongation%20concours%20acc%c3%a8s%20esrft%2026-27.pdf": "2026-08-29T13:11:52.467Z"
+    "https://esrft.ma/ckfinder/userfiles/files/prolongation%20concours%20acc%c3%a8s%20esrft%2026-27.pdf": "2026-08-29T13:11:52.467Z",
+    "https://www.almaster-maroc.com/2022/08/master-universite-abdelmalek-essaadi.html": "2026-09-05T11:20:25.471Z",
+    "https://www.almaster-maroc.com/2026/09/master-esrft-tanger-2026-2027.html": "2026-09-05T11:20:25.471Z",
+    "https://www.almaster-maroc.com/2026/09/master-flsh-tetouan-2026-2027.html": "2026-09-05T11:20:25.471Z",
+    "https://www.almaster-maroc.com/2026/09/master-flsh-ben-msik-casablanca-2026.html": "2026-09-05T11:20:25.471Z",
+    "https://www.almaster-maroc.com/2024/04/masters-ouverts-au-maroc.html": "2026-09-05T11:20:25.471Z"
   },
   "opportunities": [
     {
@@ -90,7 +95,7 @@
       "site_name": "Licence Professionnelle Maroc - FLSH",
       "site_url": "https://www.licence-professionnelle-maroc.com/search/label/FLSH",
       "first_seen_at": "2026-07-31 21:59:41",
-      "last_seen_at": "2026-09-04T12:11:42.861Z",
+      "last_seen_at": "2026-09-05T11:20:28.453Z",
       "applied_at": null
     },
     {
@@ -105,7 +110,29 @@
       "site_name": "AlMaster Maroc - FSE Masters",
       "site_url": "https://www.almaster-maroc.com/search/label/FSE",
       "first_seen_at": "2026-07-31 21:59:32",
-      "last_seen_at": "2026-09-04T12:11:41.085Z",
+      "last_seen_at": "2026-09-05T11:20:27.084Z",
+      "applied_at": null
+    },
+    {
+      "title": "Master ESRFT Tanger 2026-2027",
+      "url": "https://www.almaster-maroc.com/2026/09/master-esrft-tanger-2026-2027.html",
+      "snippet": "Master names: Master ESRFT Tanger 2026-2027; ESRFT Tanger Master 2026-2027; ESRFT Tanger Master; ماستر مدرسة الملك فهد للترجمة طنجة 2026-2027; Master ESRFT Tanger 2026; Masters ESRFT Tanger 2026-2027; Master Traduction, Communication Médias; Master Arabic Chinese English Translation | Official source: http://inscriptionmaster.uae.ac.ma/ | Published: 2026-09-04T23:32:11.777+01:00 | Master ESRFT Tanger 2026-2027ESRFT TangerESRFT Tanger Master 2026-2027ماستر مدرسة الملك فهد للترجمة طنجة 2026-2027Master ESRFT Tanger 2026Master Tanger 2026Masters ESRFT Tanger 2026-2027ESRFT Tanger Masters et Masters spécialisés 2026-2027Master ESRFT Tanger 2026-2027, Concours d'accès aux Master à la ESRFT Tanger 2026-2027.L'Ecole Supérieure Roi Fahd de Traduction de Tanger (ESRFT Tanger), Lance Inscription Masters et Masters spécialisés 2026-2027.Master ESRFT Tanger 2026-2027Master Traduction, Communication MédiasMaster Arabic Chinese English TranslationPréinscription en ligne Du 04/09/2026 au 19/09/2026.Inscription en ligne (Temps Normal)Inscription en ligne (Temps Aménagé)Master Université Abdelmalek Essaâdi Tétouan 2026-2027",
+      "matched_keywords": [
+        "Master",
+        "ماستر",
+        "English",
+        "Translation",
+        "Traduction",
+        "ESRFT",
+        "Roi Fahd de Traduction",
+        "ترجمة",
+        "Communication",
+        "Medias"
+      ],
+      "site_name": "AlMaster Maroc - ESRFT Masters",
+      "site_url": "https://www.almaster-maroc.com/search/label/ESRFT",
+      "first_seen_at": "2026-09-05T11:20:25.471Z",
+      "last_seen_at": "2026-09-05T11:20:26.688Z",
       "applied_at": null
     },
     {
@@ -126,7 +153,7 @@
       "site_name": "AlMaster Maroc - FLLA Masters",
       "site_url": "https://www.almaster-maroc.com/search/label/FLLA",
       "first_seen_at": "2026-07-31 21:59:24",
-      "last_seen_at": "2026-09-04T12:11:39.598Z",
+      "last_seen_at": "2026-09-05T11:20:26.314Z",
       "applied_at": "2026-08-01 12:31:45"
     },
     {
@@ -142,7 +169,7 @@
       "site_name": "AlMaster Maroc - FLA Masters",
       "site_url": "https://www.almaster-maroc.com/search/label/FLA",
       "first_seen_at": "2026-08-12 16:44:34",
-      "last_seen_at": "2026-09-04T12:11:39.308Z",
+      "last_seen_at": "2026-09-05T11:20:26.122Z",
       "applied_at": null
     },
     {
@@ -162,7 +189,7 @@
       "site_name": "AlMaster Maroc - FLSH Masters",
       "site_url": "https://www.almaster-maroc.com/search/label/FLSH",
       "first_seen_at": "2026-08-12 16:44:09",
-      "last_seen_at": "2026-09-04T12:11:39.037Z",
+      "last_seen_at": "2026-09-05T11:20:25.908Z",
       "applied_at": null
     },
     {
@@ -179,7 +206,7 @@
       "site_name": "AlMaster Maroc - FLSH Masters",
       "site_url": "https://www.almaster-maroc.com/search/label/FLSH",
       "first_seen_at": "2026-08-12 16:44:08",
-      "last_seen_at": "2026-09-04T12:11:39.037Z",
+      "last_seen_at": "2026-09-05T11:20:25.908Z",
       "applied_at": null
     },
     {
@@ -199,7 +226,7 @@
       "site_name": "AlMaster Maroc - FLSH Masters",
       "site_url": "https://www.almaster-maroc.com/search/label/FLSH",
       "first_seen_at": "2026-07-31 21:59:28",
-      "last_seen_at": "2026-09-04T12:11:39.037Z",
+      "last_seen_at": "2026-09-05T11:20:25.908Z",
       "applied_at": null
     },
     {
@@ -216,7 +243,7 @@
       "site_name": "AlMaster Maroc - FLSH Masters",
       "site_url": "https://www.almaster-maroc.com/search/label/FLSH",
       "first_seen_at": "2026-08-25T08:02:55.465Z",
-      "last_seen_at": "2026-09-04T12:11:39.037Z",
+      "last_seen_at": "2026-09-05T11:20:25.908Z",
       "applied_at": null
     },
     {
@@ -235,7 +262,7 @@
       "site_name": "AlMaster Maroc - FLSH Masters",
       "site_url": "https://www.almaster-maroc.com/search/label/FLSH",
       "first_seen_at": "2026-07-31 21:59:24",
-      "last_seen_at": "2026-09-04T12:11:39.037Z",
+      "last_seen_at": "2026-09-05T11:20:25.908Z",
       "applied_at": null
     },
     {
@@ -255,24 +282,42 @@
       "site_name": "AlMaster Maroc - FLSH Masters",
       "site_url": "https://www.almaster-maroc.com/search/label/FLSH",
       "first_seen_at": "2026-07-31 21:59:28",
-      "last_seen_at": "2026-09-04T12:11:39.036Z",
+      "last_seen_at": "2026-09-05T11:20:25.908Z",
       "applied_at": null
     },
     {
-      "title": "Master ENS Meknès 2026-2027",
-      "url": "https://www.almaster-maroc.com/2026/07/master-ens-meknes-2026-2027.html",
-      "snippet": "Master names: Master Linguistic and Intercultural Studies for Sustainable Education (TN + TA); Master English Language Teaching and Digital Technology (TN + TA) | Official source: https://candidature.umi.ac.ma/ | Published: 2026-08-05T15:11:49.353+01:00 | Master ENS Meknès 2026-2027ENS MeknèsENS Meknès Master 2026-2027ماستر المدرسة العليا للأساتذة مكناس 2026-2027ENS Meknès Master 2026Master ENS MeknèsMaster ENS Meknès 2026Masters ENS Meknès 2026-2027ENS Meknès Master et Masters Spécialisés 2026-2027Master ENS Meknès 2026-2027, Concours d'accès aux Master à la ENS Meknès 2026-2027.L'École Normale Supérieure de Meknès (ENS Meknès), Lance Master et Masters Spécialisés 2026-2027.Master Ecole Normale Supérieure ENS Meknès 2026-2027.L'École Normale Supérieure de Meknès, relevant de l'Université Moulay Ismaïl, informe les étudiants de l'ouverture des candidatures aux Masters accrédités au titre de l'année universitaire 2026–2027.LES MASTERS ACCRÉDITÉS :Master Pédagogie Innovante de l'Enseignement Primaire (TN + TA)ماستر المناهج اللغوية والأدبية لتدريس اللغة العربية (TN)ماستر الأدب والدراسات البينية والثقافة الرقمية (TN + TA)Master Didactique du Français et Métiers de l'Éducation et de la Formation (TN)ماستر التربية الدامجة والتكنولوجيات الذكية (TN + TA)Master Linguistic and Intercultural Studies for Sustainabl | Supérieure de Meknès, relevant de l'Université Moulay Ismaïl, informe les étudiants de l'ouverture des candidatures aux Masters accrédités au titre de l'année universitaire 2026–2027.LES MASTERS ACCRÉDITÉS :Master Pédagogie Innovante de l'Enseignement Primaire (TN + TA)ماستر المناهج اللغوية والأدبية لتدريس اللغة العربية (TN)ماستر الأدب والدراسات البينية والثقافة الرقمية (TN + TA)Master Didactique du Français et Métiers de l'Éducation et de la Formation (TN)ماستر التربية الدامجة والتكنولوجيات الذكية (TN + TA)Master Linguistic and Intercultural Studies for Sustainable Education (TN + TA)ماستر الفلسفة والتربية (TN)Master Éducation, Santé, Environnement et Citoyenneté (TN + TA)Master Didactique et Sciences des Matériaux (TN + TA)ماستر الحكامة التربوية وقيادة أنظمة التربية والتكوين (TN + TA)Master Mathématiques Appliquées et Ingénierie de l'Enseignement (TN + TA)Master English Language Teaching and Digital Technology (TN + TA)Master Sciences Mathématiques et Systèmes Éducatifs Innovants (TN + TA)Master Systèmes Intelligents pour l'Éducation (TN + TA)Master Éducation et Ingénierie de Formation (TN + TA)Master Mesure et Évaluation en Éducation et Formation (TN + TA)TN + TA : Temps normal + Temps aménagéTN : Temps normalDécouvrez une offre de formation diversifiée couvrant les domaines des sciences de l'éducation, des langues, des didactiques, des sciences et technologies ainsi que des sciences humaines.Préinscription en ligne du 01/08/2026 au 08/09/2026.Inscription en ligneMaster Université Moulay Ismail Meknès 2026-2027 | الثقافة الرقمية (TN + TA)Master Didactique du Français et Métiers de l'Éducation et de la Formation (TN)ماستر التربية الدامجة والتكنولوجيات الذكية (TN + TA)Master Linguistic and Intercultural Studies for Sustainable Education (TN + TA)ماستر الفلسفة والتربية (TN)Master Éducation, Santé, Environnement et Citoyenneté (TN + TA)Master Didactique et Sciences des Matériaux (TN + TA)ماستر الحكامة التربوية وقيادة أنظمة التربية والتكوين (TN + TA)Master Mathématiques Appliquées et Ingénierie de l'Enseignement (TN + TA)Master English Language Teaching and Digital Technology (TN + TA)Master Sciences Mathématiques et Systèmes Éducatifs Innovants (TN + TA)Master Systèmes Intelligents pour l'Éducation (TN + TA)Master Éducation et Ingénierie de Formation (TN + TA)Master Mesure et Évaluation en Éducation et Formation (TN + TA)TN + TA : Temps normal + Temps aménagéTN : Temps normalDécouvrez une offre de formation diversifiée couvrant les domaines des sciences de l'éducation, des langues, des didactiques, des sciences et technologies ainsi que des sciences humaines.Préinscription en ligne du 01/08/2026 au 08/09/2026.Inscription en ligneMaster Université Moulay Ismail Meknès 2026-2027 | TA)Master Sciences Mathématiques et Systèmes Éducatifs Innovants (TN + TA)Master Systèmes Intelligents pour l'Éducation (TN + TA)Master Éducation et Ingénierie de Formation (TN + TA)Master Mesure et Évaluation en Éducation et Formation (TN + TA)TN + TA : Temps normal + Temps aménagéTN : Temps normalDécouvrez une offre de formation diversifiée couvrant les domaines des sciences de l'éducation, des langues, des didactiques, des sciences et technologies ainsi que des sciences humaines.Préinscription en ligne du 01/08/2026 au 08/09/2026.Inscription en ligneMaster Université Moulay Ismail Meknès 2026-2027",
+      "title": "Master FLSH Tétouan 2026-2027",
+      "url": "https://www.almaster-maroc.com/2026/09/master-flsh-tetouan-2026-2027.html",
+      "snippet": "Master names: Master Interdisciplinary Studies in English Language, Culture & Literature | Official source: http://inscriptionmaster.uae.ac.ma/ | Published: 2026-09-04T23:23:54.729+01:00 | Master FLSH Tétouan 2026-2027FLSH TétouanFLSH Tétouan Master 2026-2027ماستر كلية الاداب والعلوم الانسانية تطوان 2026-2027FLSH Tétouan Master 2026-2027Inscription master FLSH Tétouan 2026FLSH Tétouan Master 2026ماستر كلية الاداب تطوان 2026-2027Master FLSH Tétouan 2026Master Tétouan 2026-2027Masters et Masters spécialisés FLSH Tétouan 2026-2027Master FLSH Tétouan 2026-2027, Inscription Concours d'accès aux Master à la FLSH Tétouan 2026-2027.La Faculté des Lettres et des Sciences Humaines de Tétouan (FLSH Tétouan), Lance Inscription Masters et Masters spécialisés 2026-2027.Master FLSH Tétouan 2026-2027.ماستر المناخ وتدبير الموارد المائيةماستر الأدب العربي في المغرب العلوي الأصول والامتداداتMaster Interdisciplinary Studies in English Language, Culture & LiteraturePréinscription en ligne Du 04/09/2026 au 19/09/2026.Inscription en ligne (Temps Normal)Inscription en ligne (Temps Aménagé)Master Université Abdelmalek Essaâdi Tétouan 2026-2027 | 026-2027Masters et Masters spécialisés FLSH Tétouan 2026-2027Master FLSH Tétouan 2026-2027, Inscription Concours d'accès aux Master à la FLSH Tétouan 2026-2027.La Faculté des Lettres et des Sciences Humaines de Tétouan (FLSH Tétouan), Lance Inscription Masters et Masters spécialisés 2026-2027.Master FLSH Tétouan 2026-2027.ماستر المناخ وتدبير الموارد المائيةماستر الأدب العربي في المغرب العلوي الأصول والامتداداتMaster Interdisciplinary Studies in English Language, Culture & LiteraturePréinscription en ligne Du 04/09/2026 au 19/09/2026.Inscription en ligne (Temps Normal)Inscription en ligne (Temps Aménagé)Master Université Abdelmalek Essaâdi Tétouan 2026-2027",
       "matched_keywords": [
         "Master",
         "ماستر",
         "English",
-        "Didactique",
-        "الثقافة"
+        "Culture"
       ],
-      "site_name": "AlMaster Maroc - Master 2026-2027",
-      "site_url": "https://www.almaster-maroc.com/",
-      "first_seen_at": "2026-08-12 16:44:09",
-      "last_seen_at": "2026-09-04T12:11:38.539Z",
+      "site_name": "AlMaster Maroc - FLSH Masters",
+      "site_url": "https://www.almaster-maroc.com/search/label/FLSH",
+      "first_seen_at": "2026-09-05T11:20:25.471Z",
+      "last_seen_at": "2026-09-05T11:20:25.908Z",
+      "applied_at": null
+    },
+    {
+      "title": "Master FLSH Ben M'Sik Casablanca 2026-2027",
+      "url": "https://www.almaster-maroc.com/2026/09/master-flsh-ben-msik-casablanca-2026.html",
+      "snippet": "Master names: ماستر اللسانيات والتخطيط اللغوي (جديد); Master Interdisciplinary Studies in Literature and Linguistics (Nouveau) | Published: 2026-09-04T22:08:51.933+01:00 | Master FLSH Ben M'Sik Casablanca 2026-2027FLSH Ben Msik CasaFLSH Ben Msik Casa Master 2026-2027ماستر كلية الاداب والعلوم الانسانية ابن امسيك الدار البيضاء 2026-2027FLSH Ben Msik Master 2026Master FLSH Casa 2026Master FLSH Ben Msik Casa 2026ماستر كلية الاداب الدار البيضاء 2026-2027Master FLSH Ben Msik 2026Master Casa 2026FLSH Ben Msik Master 2026-2027ماستر كلية الاداب بن امسيك 2026-2027FLSH Ben MsikMaster FLSH Ben MsikMaster FLSH Casablanca 2026-2027Master FLSH Ben M'Sik Casablanca 2026-2027, Concours d'accès aux Master et Master Spécialisés à la FLSH Ben M'Sik Casablanca 2026-2027.La Faculté des Lettres et des Sciences Humaines Ben M'Sik de Casablanca (FLSH Ben M'Sik Casa), Lance Inscription Masters et Masters spécialisés 2026-2027.Master FLSH Ben M'Sik Casablanca 2026-2027 :كلية الاداب والعلوم الانسانية ابن امسيك الدار البيضاء إعلان عن فتح باب الترشيح القبلي لولوج سلك الماستر برسم الموسم الجامعي 2026-2027تعلن كلية الآداب والعلوم الإنسانية بنمسيك – جامعة الحسن الثاني بالدار البيضاء إلى علم كافة الطالبات والطلبة الراغبين في ولوج سلك الماستر، أنه قد تم فتح باب الترشح ا | SH Ben MsikMaster FLSH Ben MsikMaster FLSH Casablanca 2026-2027Master FLSH Ben M'Sik Casablanca 2026-2027, Concours d'accès aux Master et Master Spécialisés à la FLSH Ben M'Sik Casablanca 2026-2027.La Faculté des Lettres et des Sciences Humaines Ben M'Sik de Casablanca (FLSH Ben M'Sik Casa), Lance Inscription Masters et Masters spécialisés 2026-2027.Master FLSH Ben M'Sik Casablanca 2026-2027 :كلية الاداب والعلوم الانسانية ابن امسيك الدار البيضاء إعلان عن فتح باب الترشيح القبلي لولوج سلك الماستر برسم الموسم الجامعي 2026-2027تعلن كلية الآداب والعلوم الإنسانية بنمسيك – جامعة الحسن الثاني بالدار البيضاء إلى علم كافة الطالبات والطلبة الراغبين في ولوج سلك الماستر، أنه قد تم فتح باب الترشح القبلي للتسجيل في سلك الماستر برسم الموسم الجامعي 2026-2027 إلى غاية يوم 15 شتنبر 2026، وذلك في المسالك التاليةماستر المغرب والهجرة الدولية تاريخ وتنمية ماستر قضايا المجتمع بين الفقه والقانونماستر الفلسفة والعقلانية التطبيقية ماستر اللسانيات والتخطيط اللغوي (جديد)Master Ingénierie socialeMaster Communication des organisations (Parcours d’excellence)Master Interdisciplinary Studies in Literature and Linguistics (Nouveau)Master Ingénierie culturelle et artistique (Nouveau)تُجرى الدراسة في هذه المسالك وفق نظامينالنظام العادي : مخصص للطالبات والطلبة المتفرغين كليًا للدراسة، الذين لا يزاولون أي نشاط مهنينظام التوقيت الميسر : موجه للطالبات والطلبة الذين يمارسون عملًا أو مهنةشروط الترشحيشترط في المترشح(ة) أن يكون حاصلاً على شهادة الإجازة أو ما يعادلها، في التخصصات المحددة لكل مسلكملف الترشيح نسخة من شهادة الإجازة. (المرجو عدم وضع الشهادة الأصلية) نسخة من شهادة البكالوريانس | امعة الحسن الثاني بالدار البيضاء إلى علم كافة الطالبات والطلبة الراغبين في ولوج سلك الماستر، أنه قد تم فتح باب الترشح القبلي للتسجيل في سلك الماستر برسم الموسم الجامعي 2026-2027 إلى غاية يوم 15 شتنبر 2026، وذلك في المسالك التاليةماستر المغرب والهجرة الدولية تاريخ وتنمية ماستر قضايا المجتمع بين الفقه والقانونماستر الفلسفة والعقلانية التطبيقية ماستر اللسانيات والتخطيط اللغوي (جديد)Master Ingénierie socialeMaster Communication des organisations (Parcours d’excellence)Master Interdisciplinary Studies in Literature and Linguistics (Nouveau)Master Ingénierie culturelle et artistique (Nouveau)تُجرى الدراسة في هذه المسالك وفق نظامينالنظام العادي : مخصص للطالبات والطلبة المتفرغين كليًا للدراسة، الذين لا يزاولون أي نشاط مهنينظام التوقيت الميسر : موجه للطالبات والطلبة الذين يمارسون عملًا أو مهنةشروط الترشحيشترط في المترشح(ة) أن يكون حاصلاً على شهادة الإجازة أو ما يعادلها، في التخصصات المحددة لكل مسلكملف الترشيح نسخة من شهادة الإجازة. (المرجو عدم وضع الشهادة الأصلية) نسخة من شهادة البكالوريانسخ بيان النقط للسنوات السابقةسيرة ذاتيةصورة شخصية حديثةصورة طبق الأصل للبطاقة الوطنيةشهادة عدم العملتوضع الوثائق في الشبابيك الخاصة بالتسجيل في الكلية الى غاية 15 شتنبر2026 الساعة الواحدة زوالا. في ظرف كبير يحمل اسم المترشح واسم التكوين الذي تم اختياره ملاحظات هامةيعتمد الانتقاء الأولي بناء على المعايير المعتمدة بالملف الوصفي لكل مسلك يجب على المترشح(ة) التأكد من صحة البيانات المصرح بها وإرفاق الوثائق المطلوبة حسب نظام الدراسة، وفي حالة الإدلاء ببيانات كاذبة يتعرض المترشح للإقصاءأي بيانات غير مطابقة للحقيقة تعرض صاحبها للإجراءات القانونية والإدارية الجاري بها العمليخص | العادي : مخصص للطالبات والطلبة المتفرغين كليًا للدراسة، الذين لا يزاولون أي نشاط مهنينظام التوقيت الميسر : موجه للطالبات والطلبة الذين يمارسون عملًا أو مهنةشروط الترشحيشترط في المترشح(ة) أن يكون حاصلاً على شهادة الإجازة أو ما يعادلها، في التخصصات المحددة لكل مسلكملف الترشيح نسخة من شهادة الإجازة. (المرجو عدم وضع الشهادة الأصلية) نسخة من شهادة البكالوريانسخ بيان النقط للسنوات السابقةسيرة ذاتيةصورة شخصية حديثةصورة طبق الأصل للبطاقة الوطنيةشهادة عدم العملتوضع الوثائق في الشبابيك الخاصة بالتسجيل في الكلية الى غاية 15 شتنبر2026 الساعة الواحدة زوالا. في ظرف كبير يحمل اسم المترشح واسم التكوين الذي تم اختياره ملاحظات هامةيعتمد الانتقاء الأولي بناء على المعايير المعتمدة بالملف الوصفي لكل مسلك يجب على المترشح(ة) التأكد من صحة البيانات المصرح بها وإرفاق الوثائق المطلوبة حسب نظام الدراسة، وفي حالة الإدلاء ببيانات كاذبة يتعرض المترشح للإقصاءأي بيانات غير مطابقة للحقيقة تعرض صاحبها للإجراءات القانونية والإدارية الجاري بها العمليخص هذا الإعلان نظام التوقيت العادي المخصص للطالبات والطلبة المتفرغين كليا للدراسة، والذين لا يزاولون أي نشاط مهني وسيتم الإعلان في وقت لاحق عن التكوينات المفتوحة في إطار التوقيت الميسر يرجى تتبع الموقع الرسمي للكلية للاطلاع على المستجداتhttps://flbenmsik.ma/ للمزيد من المعلومات، يرجى التواصل عبر البريد الالكترونيinscription@flbenmsik.maاضغط هنا لولوج منصة الترشح القبليhttps://forms.gle/ADnt5eMUgmpo8JLy6Préinscription en ligne du 04/09/2026 au 15/09/2026Inscription en ligneLicence d'Excellence LSH Ben M'Sik Casablanca 2026-2027Master Université Hassan II Casablanca 2026-2027 | بيانات غير مطابقة للحقيقة تعرض صاحبها للإجراءات القانونية والإدارية الجاري بها العملي...",
+      "matched_keywords": [
+        "Master",
+        "ماستر",
+        "Linguistics",
+        "اللسانيات",
+        "لسانيات",
+        "Communication",
+        "التواصل"
+      ],
+      "site_name": "AlMaster Maroc - FLSH Masters",
+      "site_url": "https://www.almaster-maroc.com/search/label/FLSH",
+      "first_seen_at": "2026-09-05T11:20:25.471Z",
+      "last_seen_at": "2026-09-05T11:20:25.908Z",
       "applied_at": null
     },
     {
@@ -290,7 +335,37 @@
       "site_name": "AlMaster Maroc - Master 2026-2027",
       "site_url": "https://www.almaster-maroc.com/",
       "first_seen_at": "2026-08-12 16:44:08",
-      "last_seen_at": "2026-09-04T12:11:38.539Z",
+      "last_seen_at": "2026-09-05T11:20:25.471Z",
+      "applied_at": null
+    },
+    {
+      "title": "Master Université Abdelmalek Essaâdi Tétouan 2026-2027",
+      "url": "https://www.almaster-maroc.com/2022/08/master-universite-abdelmalek-essaadi.html",
+      "snippet": "Master names: Master ESRFT Tanger 2026-2027 | Official source: http://inscriptionmaster.uae.ac.ma/ | Published: 2026-09-05T00:00:48.116+01:00 | Master Université Abdelmalek Essaâdi Tétouan 2026-2027Université Abdelmalek Essaâdiماستر جامعة عبد المالك السعدي 2026-2027Master Tanger 2026-2027الماسترات المفتوحة بجامعة عبد المالك السعدي تطوان 2026-2027Master Tétouan 2026-2027Université Abdelmalek Essaâdi Master 2026-2027L'Université Abdelmalek Essaâdi Lance inscription Master et Master spécialisé 2026-2027.Master Université Abdelmalek Essaâdi 2026-2027.جامعة عبد المالك السعدي إعلان هام انطلاق عملية الترشيح لولوج سلك الماستر برسم الموسم الجامعي 2026-2027تعلن جامعة عبد المالك السعدي لفائدة المترشحين لولوج سلك الماستر، في إطار الزمن العادي والزمن الميسر، أنه تقرر فتح باب الترشيحات عبر المنصة الرقمية للجامعة، وذلك خلال الفترة الممتدة من يوم الجمعة 04 شتنبر إلى يوم السبت 19 شتنبر 2026، وفق الشروط المحددة في الملفات الوصفية للمسالك المعتمدة، وطبقا لدفتر الضوابط البيداغوجية الوطنية لسلك الماستر.بالنسبة للمترشحين لولوج سلك الماستر في إطار الزمن العادي، غير الموظفين والمأجورين وأصحاب المهن الحرة، يتم الترشيح عبر المنصة الرقمية الخاصة بالتكوينات في إطار الزمن العادي، على الرابط الآتي: http://inscriptionmaster.uae.ac.maبالنسبة للمترشحين | هام انطلاق عملية الترشيح لولوج سلك الماستر برسم الموسم الجامعي 2026-2027تعلن جامعة عبد المالك السعدي لفائدة المترشحين لولوج سلك الماستر، في إطار الزمن العادي والزمن الميسر، أنه تقرر فتح باب الترشيحات عبر المنصة الرقمية للجامعة، وذلك خلال الفترة الممتدة من يوم الجمعة 04 شتنبر إلى يوم السبت 19 شتنبر 2026، وفق الشروط المحددة في الملفات الوصفية للمسالك المعتمدة، وطبقا لدفتر الضوابط البيداغوجية الوطنية لسلك الماستر.بالنسبة للمترشحين لولوج سلك الماستر في إطار الزمن العادي، غير الموظفين والمأجورين وأصحاب المهن الحرة، يتم الترشيح عبر المنصة الرقمية الخاصة بالتكوينات في إطار الزمن العادي، على الرابط الآتي: http://inscriptionmaster.uae.ac.maبالنسبة للمترشحين في إطار الزمن الميسر، من فئة الموظفين والمأجورين وأصحاب المهن الحرة، يتم الترشيح عبر المنصة الرقمية الخاصة بالتكوينات في إطار الزمن الميسر، على الرابط الآتي: http://inscriptionmaster-ta.uae.ac.maويتعين على جميع المترشحين الإدلاء بالمعطيات الصحيحة والدقيقة، علماً أن أي تصريح بمعطيات خاطئة يترتب عنه إلغاء الترشيح.ملاحظة: فتح بعض تكوينات الماستر مشروط بالحصول على الاعتماد النهائي من طرف الوزارة الوصية؛Master ENS Tétouan 2026-2027Master FEG Tétouan 2026-2027Master FSJP Tétouan 2026-2027Master FP Larache 2026-2027Master ENCG Tanger 2026-2027Master ESRFT Tanger 2026-2027Master FLSH Tétouan 2026-2027Master FS Tétouan 2026-2027Master FEG Tanger 2026-2027Master FSJP Tanger 2026-2027Master FMP Tanger 2026-2027Master Faculté Ossoul Eddine Tétouan 2026-2027Whatsapp Master Maroc | تكوينات في إطار الزمن العادي، على الرابط الآتي: http://inscriptionmaster.uae.ac.maبالنسبة للمترشحين في إطار الزمن الميسر، من فئة الموظفين والمأجورين وأصحاب المهن الحرة، يتم الترشيح عبر المنصة الرقمية الخاصة بالتكوينات في إطار الزمن الميسر، على الرابط الآتي: http://inscriptionmaster-ta.uae.ac.maويتعين على جميع المترشحين الإدلاء بالمعطيات الصحيحة والدقيقة، علماً أن أي تصريح بمعطيات خاطئة يترتب عنه إلغاء الترشيح.ملاحظة: فتح بعض تكوينات الماستر مشروط بالحصول على الاعتماد النهائي من طرف الوزارة الوصية؛Master ENS Tétouan 2026-2027Master FEG Tétouan 2026-2027Master FSJP Tétouan 2026-2027Master FP Larache 2026-2027Master ENCG Tanger 2026-2027Master ESRFT Tanger 2026-2027Master FLSH Tétouan 2026-2027Master FS Tétouan 2026-2027Master FEG Tanger 2026-2027Master FSJP Tanger 2026-2027Master FMP Tanger 2026-2027Master Faculté Ossoul Eddine Tétouan 2026-2027Whatsapp Master Maroc | لاء بالمعطيات الصحيحة والدقيقة، علماً أن أي تصريح بمعطيات خاطئة يترتب عنه إلغاء الترشيح.ملاحظة: فتح بعض تكوينات الماستر مشروط بالحصول على الاعتماد النهائي من طرف الوزارة الوصية؛Master ENS Tétouan 2026-2027Master FEG Tétouan 2026-2027Master FSJP Tétouan 2026-2027Master FP Larache 2026-2027Master ENCG Tanger 2026-2027Master ESRFT Tanger 2026-2027Master FLSH Tétouan 2026-2027Master FS Tétouan 2026-2027Master FEG Tanger 2026-2027Master FSJP Tanger 2026-2027Master FMP Tanger 2026-2027Master Faculté Ossoul Eddine Tétouan 2026-2027Whatsapp Master Maroc",
+      "matched_keywords": [
+        "Master",
+        "ماستر",
+        "ESRFT"
+      ],
+      "site_name": "AlMaster Maroc - Master 2026-2027",
+      "site_url": "https://www.almaster-maroc.com/",
+      "first_seen_at": "2026-09-05T11:20:25.471Z",
+      "last_seen_at": "2026-09-05T11:20:25.471Z",
+      "applied_at": null
+    },
+    {
+      "title": "Masters Ouverts au Maroc 2026-2027",
+      "url": "https://www.almaster-maroc.com/2024/04/Masters-Ouverts-au-Maroc.html",
+      "snippet": "Master names: Master ESRFT Tanger 2026-2027 | Published: 2026-09-02T17:26:58.992+01:00 | Master Maroc 2026-2027, Masters Ouverts au Maroc 2026-2027الماسترات المفتوحة بالجامعات المغربية 2026-2027Master Maroc, Concours d'accès aux Master Maroc 2026-2027.Master FEG Tétouan 2026-2027Master FSJP Tétouan 2026-2027Master FP Larache 2026-2027Master ENS Tétouan 2026-2027Master ENCG Tanger 2026-2027Master ESRFT Tanger 2026-2027Master FLSH Tétouan 2026-2027Master FS Tétouan 2026-2027Master FEG Tanger 2026-2027Master FSJP Tanger 2026-2027Master FMP Tanger 2026-2027Master Faculté Ossoul Eddine Tétouan 2026-2027Master FSJES Oujda 2026-2027Master FLSH Ben M'Sik Casablanca 2026-2027Master ESEF Béni Mellal 2026-2027Master FEG Tanger 2026-2027Master FSJP Tanger 2026-2027Master FSJES Mohammedia 2026-2027Master FSJES Ain Chock Casablanca 2026-2027Master FSJES Meknès 2026-2027Master FSJES Salé 2026-2027Master FSJES Souissi Rabat 2026-2027Master FSJP Settat 2026-2027Master FSJP El Jadida 2026-2027Master FSJP Errachidia 2026-2027Master FSJP Kénitra 2026-2027Master FSJP Agadir 2026-2027Master FSJP Ait Melloul 2026-2027Master FEG El Jadida 2026-2027Master FEG | FT Tanger 2026-2027Master FLSH Tétouan 2026-2027Master FS Tétouan 2026-2027Master FEG Tanger 2026-2027Master FSJP Tanger 2026-2027Master FMP Tanger 2026-2027Master Faculté Ossoul Eddine Tétouan 2026-2027Master FSJES Oujda 2026-2027Master FLSH Ben M'Sik Casablanca 2026-2027Master ESEF Béni Mellal 2026-2027Master FEG Tanger 2026-2027Master FSJP Tanger 2026-2027Master FSJES Mohammedia 2026-2027Master FSJES Ain Chock Casablanca 2026-2027Master FSJES Meknès 2026-2027Master FSJES Salé 2026-2027Master FSJES Souissi Rabat 2026-2027Master FSJP Settat 2026-2027Master FSJP El Jadida 2026-2027Master FSJP Errachidia 2026-2027Master FSJP Kénitra 2026-2027Master FSJP Agadir 2026-2027Master FSJP Ait Melloul 2026-2027Master FEG El Jadida 2026-2027Master FEG Agadir 2026-2027Master FEG Ait Melloul 2026-2027Master FEG Taroudant 2026-2027Master FEG Guelmim 2026-2027Master FEG Béni Mellal 2026-2027Master FEG Kénitra 2026-2027Master FEG Settat 2026-2027Master FEG Errachidia 2026-2027Master FS El Jadida 2026-2027Master FS Kénitra 2026-2027Master FS Agadir 2026-2027Master FS Rabat 2026-2027Master FS Meknès 2026-2027Master FLSH Béni Mellal 2026-2027Master FLSH Ain Chock Casablanca 2026-2027Master FLSH Mohammedia 2026-2027Master FLSH Agadir 2026-2027Master FLSH El Jadida 2026-2027Master FLSH Meknès 2026-2027Master FLLA Kénitra 2026-2027Master FLLA Errachidia 2026-2027Master FSHS Taroudant 2026-2027Master FSHS Smara 2026-2027Master FSHS Kénitra 2026-2027Master FSHS Errachidia 2026-2027Master FSA Ait Melloul 2026-2027Master FSA Taroudant 2026-2027Master FSA Ouarzazate 2026 | 6-2027Master FEG Tanger 2026-2027Master FSJP Tanger 2026-2027Master FSJES Mohammedia 2026-2027Master FSJES Ain Chock Casablanca 2026-2027Master FSJES Meknès 2026-2027Master FSJES Salé 2026-2027Master FSJES Souissi Rabat 2026-2027Master FSJP Settat 2026-2027Master FSJP El Jadida 2026-2027Master FSJP Errachidia 2026-2027Master FSJP Kénitra 2026-2027Master FSJP Agadir 2026-2027Master FSJP Ait Melloul 2026-2027Master FEG El Jadida 2026-2027Master FEG Agadir 2026-2027Master FEG Ait Melloul 2026-2027Master FEG Taroudant 2026-2027Master FEG Guelmim 2026-2027Master FEG Béni Mellal 2026-2027Master FEG Kénitra 2026-2027Master FEG Settat 2026-2027Master FEG Errachidia 2026-2027Master FS El Jadida 2026-2027Master FS Kénitra 2026-2027Master FS Agadir 2026-2027Master FS Rabat 2026-2027Master FS Meknès 2026-2027Master FLSH Béni Mellal 2026-2027Master FLSH Ain Chock Casablanca 2026-2027Master FLSH Mohammedia 2026-2027Master FLSH Agadir 2026-2027Master FLSH El Jadida 2026-2027Master FLSH Meknès 2026-2027Master FLLA Kénitra 2026-2027Master FLLA Errachidia 2026-2027Master FSHS Taroudant 2026-2027Master FSHS Smara 2026-2027Master FSHS Kénitra 2026-2027Master FSHS Errachidia 2026-2027Master FSA Ait Melloul 2026-2027Master FSA Taroudant 2026-2027Master FSA Ouarzazate 2026-2027Master ENS Meknès 2026-2027Master ENS Casablanca 2026-2027Master ENS Rabat 2026-2027Master FST Errachidia 2026-2027Master ESEF El Jadida 2026-2027Master ESEF Agadir 2026-2027Master ESEF Kénitra 2026-2027Master ESEF Berrechid 2026-2027Master ENCG Settat 2026-2027Master ENCG Fès 2026-2027Master E | 026-2027Master FSJP Kénitra 2026-2027Master FSJP Agadir 2026-2027Master FSJP Ait Melloul 2026-2027Master FEG El Jadida 2026-2027Master FEG Agadir 2026-2027Master FEG Ait Melloul 2026-2027Master FEG Taroudant 2026-2027Master FEG Guelmim 2026-2027Master FEG Béni Mellal 2026-2027Master FEG Kénitra 2026-2027Master FEG Settat 2026-2027Master FEG Errachidia 2026-2027Master FS El Jadida 2026-2027Master FS Kénitra 2026-2027Master FS Agadir 2026-2027Master FS Rabat 2026-2027Master FS Meknès 2026-2027Master FLSH Béni Mellal 2026-2027Master FLSH Ain Chock Casablanca 2026-2027Master FLSH Mohammedia 2026-2027Master FLSH Agadir 2026-2027Master FLSH El Jadida 2026-2027Master FLSH Meknès 2026-2027Master FLLA Kénitra 2026-2027Master FLLA Errachidia 2026-2027Master FSHS Taroudant 2026-2027Master FSHS Smara 2026-2027Master FSHS Kénitra 2026-2027Master FSHS Errachidia 2026-2027Master FSA Ait Melloul 2026-2027Master FSA Taroudant 2026-2027Master FSA Ouarzazate 2026-2027Master ENS Meknès 2026-2027Master ENS Casablanca 2026-2027Master ENS Rabat 2026-2027Master FST Errachidia 2026-2027Master ESEF El Jadida 2026-2027Master ESEF Agadir 2026-2027Master ESEF Kénitra 2026-2027Master ESEF Berrechid 2026-2027Master ENCG Settat 2026-2027Master ENCG Fès 2026-2027Master ENCG Agadir 2026-2027Master ENCG Marrakech 2026-2027Master FP Sidi Bennour 2026-2027Master FP Khouribga 2026-2027Master Faculté Chariaa Ait Melloul 2026-2027Master FLASH Ait Melloul 2026-2027Master FMP Laayoune 2026-2027Master FMP Agadir 2026-2027Master FMP Rabat 2026-2027Master FMD Rabat 2026-2027Master ENSAM M | ter FEG Kénitra 2026-2027Master FEG Settat 2026-2027Master FEG Errachidia 2026-2027Master FS El Jadida 2026-2027Master FS Kén...",
+      "matched_keywords": [
+        "Master",
+        "ماستر",
+        "ESRFT"
+      ],
+      "site_name": "AlMaster Maroc - Master 2026-2027",
+      "site_url": "https://www.almaster-maroc.com/",
+      "first_seen_at": "2026-09-05T11:20:25.471Z",
+      "last_seen_at": "2026-09-05T11:20:25.471Z",
       "applied_at": null
     },
     {
@@ -303,7 +378,7 @@
       "site_name": "ESRFT Tanger - Traduction",
       "site_url": "https://esrft.ma/",
       "first_seen_at": "2026-08-05 22:57:09",
-      "last_seen_at": "2026-09-04T12:09:49.267Z",
+      "last_seen_at": "2026-09-05T11:17:57.002Z",
       "applied_at": null
     },
     {
@@ -318,7 +393,7 @@
       "site_name": "ESRFT Tanger - Traduction",
       "site_url": "https://esrft.ma/",
       "first_seen_at": "2026-08-29T13:11:52.467Z",
-      "last_seen_at": "2026-09-04T12:09:49.267Z",
+      "last_seen_at": "2026-09-05T11:17:57.002Z",
       "applied_at": null
     },
     {
@@ -331,7 +406,7 @@
       "site_name": "ESRFT Tanger - Traduction",
       "site_url": "https://esrft.ma/",
       "first_seen_at": "2026-08-05 22:57:09",
-      "last_seen_at": "2026-09-04T12:09:49.267Z",
+      "last_seen_at": "2026-09-05T11:17:57.002Z",
       "applied_at": null
     },
     {
@@ -347,8 +422,25 @@
       "site_name": "UCA Marrakech - FLA Master Candidature 2026-2027",
       "site_url": "https://e-candidature.uca.ma/master.fla/",
       "first_seen_at": "2026-07-04 12:11:45",
-      "last_seen_at": "2026-09-04T12:09:17.695Z",
+      "last_seen_at": "2026-09-05T11:17:17.000Z",
       "applied_at": "2026-07-31 22:14:40"
+    },
+    {
+      "title": "Master ENS Meknès 2026-2027",
+      "url": "https://www.almaster-maroc.com/2026/07/master-ens-meknes-2026-2027.html",
+      "snippet": "Master names: Master Linguistic and Intercultural Studies for Sustainable Education (TN + TA); Master English Language Teaching and Digital Technology (TN + TA) | Official source: https://candidature.umi.ac.ma/ | Published: 2026-08-05T15:11:49.353+01:00 | Master ENS Meknès 2026-2027ENS MeknèsENS Meknès Master 2026-2027ماستر المدرسة العليا للأساتذة مكناس 2026-2027ENS Meknès Master 2026Master ENS MeknèsMaster ENS Meknès 2026Masters ENS Meknès 2026-2027ENS Meknès Master et Masters Spécialisés 2026-2027Master ENS Meknès 2026-2027, Concours d'accès aux Master à la ENS Meknès 2026-2027.L'École Normale Supérieure de Meknès (ENS Meknès), Lance Master et Masters Spécialisés 2026-2027.Master Ecole Normale Supérieure ENS Meknès 2026-2027.L'École Normale Supérieure de Meknès, relevant de l'Université Moulay Ismaïl, informe les étudiants de l'ouverture des candidatures aux Masters accrédités au titre de l'année universitaire 2026–2027.LES MASTERS ACCRÉDITÉS :Master Pédagogie Innovante de l'Enseignement Primaire (TN + TA)ماستر المناهج اللغوية والأدبية لتدريس اللغة العربية (TN)ماستر الأدب والدراسات البينية والثقافة الرقمية (TN + TA)Master Didactique du Français et Métiers de l'Éducation et de la Formation (TN)ماستر التربية الدامجة والتكنولوجيات الذكية (TN + TA)Master Linguistic and Intercultural Studies for Sustainabl | Supérieure de Meknès, relevant de l'Université Moulay Ismaïl, informe les étudiants de l'ouverture des candidatures aux Masters accrédités au titre de l'année universitaire 2026–2027.LES MASTERS ACCRÉDITÉS :Master Pédagogie Innovante de l'Enseignement Primaire (TN + TA)ماستر المناهج اللغوية والأدبية لتدريس اللغة العربية (TN)ماستر الأدب والدراسات البينية والثقافة الرقمية (TN + TA)Master Didactique du Français et Métiers de l'Éducation et de la Formation (TN)ماستر التربية الدامجة والتكنولوجيات الذكية (TN + TA)Master Linguistic and Intercultural Studies for Sustainable Education (TN + TA)ماستر الفلسفة والتربية (TN)Master Éducation, Santé, Environnement et Citoyenneté (TN + TA)Master Didactique et Sciences des Matériaux (TN + TA)ماستر الحكامة التربوية وقيادة أنظمة التربية والتكوين (TN + TA)Master Mathématiques Appliquées et Ingénierie de l'Enseignement (TN + TA)Master English Language Teaching and Digital Technology (TN + TA)Master Sciences Mathématiques et Systèmes Éducatifs Innovants (TN + TA)Master Systèmes Intelligents pour l'Éducation (TN + TA)Master Éducation et Ingénierie de Formation (TN + TA)Master Mesure et Évaluation en Éducation et Formation (TN + TA)TN + TA : Temps normal + Temps aménagéTN : Temps normalDécouvrez une offre de formation diversifiée couvrant les domaines des sciences de l'éducation, des langues, des didactiques, des sciences et technologies ainsi que des sciences humaines.Préinscription en ligne du 01/08/2026 au 08/09/2026.Inscription en ligneMaster Université Moulay Ismail Meknès 2026-2027 | الثقافة الرقمية (TN + TA)Master Didactique du Français et Métiers de l'Éducation et de la Formation (TN)ماستر التربية الدامجة والتكنولوجيات الذكية (TN + TA)Master Linguistic and Intercultural Studies for Sustainable Education (TN + TA)ماستر الفلسفة والتربية (TN)Master Éducation, Santé, Environnement et Citoyenneté (TN + TA)Master Didactique et Sciences des Matériaux (TN + TA)ماستر الحكامة التربوية وقيادة أنظمة التربية والتكوين (TN + TA)Master Mathématiques Appliquées et Ingénierie de l'Enseignement (TN + TA)Master English Language Teaching and Digital Technology (TN + TA)Master Sciences Mathématiques et Systèmes Éducatifs Innovants (TN + TA)Master Systèmes Intelligents pour l'Éducation (TN + TA)Master Éducation et Ingénierie de Formation (TN + TA)Master Mesure et Évaluation en Éducation et Formation (TN + TA)TN + TA : Temps normal + Temps aménagéTN : Temps normalDécouvrez une offre de formation diversifiée couvrant les domaines des sciences de l'éducation, des langues, des didactiques, des sciences et technologies ainsi que des sciences humaines.Préinscription en ligne du 01/08/2026 au 08/09/2026.Inscription en ligneMaster Université Moulay Ismail Meknès 2026-2027 | TA)Master Sciences Mathématiques et Systèmes Éducatifs Innovants (TN + TA)Master Systèmes Intelligents pour l'Éducation (TN + TA)Master Éducation et Ingénierie de Formation (TN + TA)Master Mesure et Évaluation en Éducation et Formation (TN + TA)TN + TA : Temps normal + Temps aménagéTN : Temps normalDécouvrez une offre de formation diversifiée couvrant les domaines des sciences de l'éducation, des langues, des didactiques, des sciences et technologies ainsi que des sciences humaines.Préinscription en ligne du 01/08/2026 au 08/09/2026.Inscription en ligneMaster Université Moulay Ismail Meknès 2026-2027",
+      "matched_keywords": [
+        "Master",
+        "ماستر",
+        "English",
+        "Didactique",
+        "الثقافة"
+      ],
+      "site_name": "AlMaster Maroc - Master 2026-2027",
+      "site_url": "https://www.almaster-maroc.com/",
+      "first_seen_at": "2026-08-12 16:44:09",
+      "last_seen_at": "2026-09-04T12:11:38.539Z",
+      "applied_at": null
     },
     {
       "title": "Master ENS Rabat 2026-2027",
@@ -1167,8 +1259,8 @@
       "url": "https://e-candidature.uca.ma/",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-09-04T12:09:09.389Z",
-      "durationMs": 4942,
+      "checkedAt": "2026-09-05T11:17:10.800Z",
+      "durationMs": 9087,
       "error": null
     },
     {
@@ -1176,8 +1268,8 @@
       "url": "https://www.uca.ma/flam/fr/news/candidature-aux-masters-pour-lannee-universitaire-20262027",
       "status": "ok",
       "matches": 1,
-      "checkedAt": "2026-09-04T12:09:17.142Z",
-      "durationMs": 7753,
+      "checkedAt": "2026-09-05T11:17:16.390Z",
+      "durationMs": 5590,
       "error": null
     },
     {
@@ -1185,8 +1277,8 @@
       "url": "https://e-candidature.uca.ma/master.fla/",
       "status": "ok",
       "matches": 1,
-      "checkedAt": "2026-09-04T12:09:17.695Z",
-      "durationMs": 553,
+      "checkedAt": "2026-09-05T11:17:17.000Z",
+      "durationMs": 610,
       "error": null
     },
     {
@@ -1194,8 +1286,8 @@
       "url": "https://e-candidature.uca.ma/master.flsh/",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-09-04T12:09:25.291Z",
-      "durationMs": 7596,
+      "checkedAt": "2026-09-05T11:17:28.070Z",
+      "durationMs": 11070,
       "error": null
     },
     {
@@ -1203,8 +1295,8 @@
       "url": "https://e-candidature.uca.ma/master.ens/",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-09-04T12:09:26.502Z",
-      "durationMs": 1211,
+      "checkedAt": "2026-09-05T11:17:29.630Z",
+      "durationMs": 1560,
       "error": null
     },
     {
@@ -1212,8 +1304,8 @@
       "url": "https://flsh.uca.ma/linguistics-and-advanced-english-studies/",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-09-04T12:09:37.372Z",
-      "durationMs": 10870,
+      "checkedAt": "2026-09-05T11:17:35.830Z",
+      "durationMs": 6200,
       "error": null
     },
     {
@@ -1221,8 +1313,8 @@
       "url": "https://www.uca.ma/fr/formations/formation-initiale/linguistics-and-advanced-english-studies",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-09-04T12:09:39.924Z",
-      "durationMs": 2552,
+      "checkedAt": "2026-09-05T11:17:38.206Z",
+      "durationMs": 2376,
       "error": null
     },
     {
@@ -1230,8 +1322,8 @@
       "url": "https://ens.uca.ma/",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-09-04T12:09:44.655Z",
-      "durationMs": 4731,
+      "checkedAt": "2026-09-05T11:17:45.127Z",
+      "durationMs": 6921,
       "error": null
     },
     {
@@ -1239,8 +1331,8 @@
       "url": "https://esrft.ma/",
       "status": "ok",
       "matches": 3,
-      "checkedAt": "2026-09-04T12:09:49.268Z",
-      "durationMs": 4613,
+      "checkedAt": "2026-09-05T11:17:57.002Z",
+      "durationMs": 11875,
       "error": null
     },
     {
@@ -1248,8 +1340,8 @@
       "url": "https://fse.um5.ac.ma/",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-09-04T12:09:52.018Z",
-      "durationMs": 2750,
+      "checkedAt": "2026-09-05T11:18:36.196Z",
+      "durationMs": 39194,
       "error": null
     },
     {
@@ -1257,8 +1349,8 @@
       "url": "https://ens.um5.ac.ma/affiche-annonce-22",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-09-04T12:09:53.193Z",
-      "durationMs": 1175,
+      "checkedAt": "2026-09-05T11:18:41.417Z",
+      "durationMs": 5221,
       "error": null
     },
     {
@@ -1266,8 +1358,8 @@
       "url": "https://ens.um5.ac.ma/coordonnateurs-des-filieres",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-09-04T12:09:53.511Z",
-      "durationMs": 318,
+      "checkedAt": "2026-09-05T11:18:42.892Z",
+      "durationMs": 1475,
       "error": null
     },
     {
@@ -1275,8 +1367,8 @@
       "url": "https://www.ens.umi.ac.ma/formations/master/",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-09-04T12:10:01.155Z",
-      "durationMs": 7644,
+      "checkedAt": "2026-09-05T11:18:49.583Z",
+      "durationMs": 6691,
       "error": null
     },
     {
@@ -1284,8 +1376,8 @@
       "url": "https://ens-umi-inscription.com/",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-09-04T12:10:03.798Z",
-      "durationMs": 2643,
+      "checkedAt": "2026-09-05T11:18:51.120Z",
+      "durationMs": 1537,
       "error": null
     },
     {
@@ -1293,8 +1385,8 @@
       "url": "https://www.uiz.ac.ma/node/182",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-09-04T12:10:08.072Z",
-      "durationMs": 4274,
+      "checkedAt": "2026-09-05T11:18:55.343Z",
+      "durationMs": 4223,
       "error": null
     },
     {
@@ -1302,8 +1394,8 @@
       "url": "https://www.uae.ac.ma/formations/flsh/interdisciplinary-studies-english-language-culture-literature-options-1",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-09-04T12:10:48.095Z",
-      "durationMs": 40023,
+      "checkedAt": "2026-09-05T11:19:26.699Z",
+      "durationMs": 31356,
       "error": null
     },
     {
@@ -1311,8 +1403,8 @@
       "url": "https://fshs.uit.ac.ma/%D8%A7%D9%84%D8%B4%D8%B9%D8%A8/%D8%A7%D9%84%D9%85%D8%A7%D8%B3%D8%AA%D8%B1/",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-09-04T12:10:55.667Z",
-      "durationMs": 7572,
+      "checkedAt": "2026-09-05T11:19:36.099Z",
+      "durationMs": 9400,
       "error": null
     },
     {
@@ -1320,8 +1412,8 @@
       "url": "https://www.ump.ma/fr/licence-professionnelle-lp",
       "status": "error",
       "matches": 0,
-      "checkedAt": "2026-09-04T12:11:28.425Z",
-      "durationMs": 32758,
+      "checkedAt": "2026-09-05T11:20:08.868Z",
+      "durationMs": 32769,
       "error": "fetch failed"
     },
     {
@@ -1329,26 +1421,26 @@
       "url": "https://www-flash.uh1.ac.ma/",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-09-04T12:11:37.537Z",
-      "durationMs": 9112,
+      "checkedAt": "2026-09-05T11:20:24.729Z",
+      "durationMs": 15861,
       "error": null
     },
     {
       "name": "AlMaster Maroc - Master 2026-2027",
       "url": "https://www.almaster-maroc.com/",
       "status": "ok",
-      "matches": 8,
-      "checkedAt": "2026-09-04T12:11:38.539Z",
-      "durationMs": 1002,
+      "matches": 10,
+      "checkedAt": "2026-09-05T11:20:25.471Z",
+      "durationMs": 742,
       "error": null
     },
     {
       "name": "AlMaster Maroc - FLSH Masters",
       "url": "https://www.almaster-maroc.com/search/label/FLSH",
       "status": "ok",
-      "matches": 6,
-      "checkedAt": "2026-09-04T12:11:39.037Z",
-      "durationMs": 498,
+      "matches": 8,
+      "checkedAt": "2026-09-05T11:20:25.908Z",
+      "durationMs": 437,
       "error": null
     },
     {
@@ -1356,8 +1448,8 @@
       "url": "https://www.almaster-maroc.com/search/label/FLA",
       "status": "ok",
       "matches": 1,
-      "checkedAt": "2026-09-04T12:11:39.308Z",
-      "durationMs": 271,
+      "checkedAt": "2026-09-05T11:20:26.122Z",
+      "durationMs": 214,
       "error": null
     },
     {
@@ -1365,8 +1457,8 @@
       "url": "https://www.almaster-maroc.com/search/label/FLLA",
       "status": "ok",
       "matches": 1,
-      "checkedAt": "2026-09-04T12:11:39.598Z",
-      "durationMs": 290,
+      "checkedAt": "2026-09-05T11:20:26.314Z",
+      "durationMs": 192,
       "error": null
     },
     {
@@ -1374,17 +1466,17 @@
       "url": "https://www.almaster-maroc.com/search/label/FSHS",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-09-04T12:11:39.958Z",
-      "durationMs": 360,
+      "checkedAt": "2026-09-05T11:20:26.497Z",
+      "durationMs": 183,
       "error": null
     },
     {
       "name": "AlMaster Maroc - ESRFT Masters",
       "url": "https://www.almaster-maroc.com/search/label/ESRFT",
       "status": "ok",
-      "matches": 0,
-      "checkedAt": "2026-09-04T12:11:40.422Z",
-      "durationMs": 464,
+      "matches": 1,
+      "checkedAt": "2026-09-05T11:20:26.688Z",
+      "durationMs": 191,
       "error": null
     },
     {
@@ -1392,8 +1484,8 @@
       "url": "https://www.almaster-maroc.com/search/label/FLASH",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-09-04T12:11:40.759Z",
-      "durationMs": 337,
+      "checkedAt": "2026-09-05T11:20:26.882Z",
+      "durationMs": 194,
       "error": null
     },
     {
@@ -1401,8 +1493,8 @@
       "url": "https://www.almaster-maroc.com/search/label/FSE",
       "status": "ok",
       "matches": 1,
-      "checkedAt": "2026-09-04T12:11:41.085Z",
-      "durationMs": 326,
+      "checkedAt": "2026-09-05T11:20:27.084Z",
+      "durationMs": 202,
       "error": null
     },
     {
@@ -1410,8 +1502,8 @@
       "url": "https://www.licence-professionnelle-maroc.com/",
       "status": "ok",
       "matches": 1,
-      "checkedAt": "2026-09-04T12:11:41.830Z",
-      "durationMs": 745,
+      "checkedAt": "2026-09-05T11:20:27.645Z",
+      "durationMs": 561,
       "error": null
     },
     {
@@ -1419,8 +1511,8 @@
       "url": "https://www.licence-professionnelle-maroc.com/search/label/Licence%20Professionnelle",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-09-04T12:11:42.336Z",
-      "durationMs": 506,
+      "checkedAt": "2026-09-05T11:20:28.060Z",
+      "durationMs": 415,
       "error": null
     },
     {
@@ -1428,8 +1520,8 @@
       "url": "https://www.licence-professionnelle-maroc.com/search/label/FLSH",
       "status": "ok",
       "matches": 1,
-      "checkedAt": "2026-09-04T12:11:42.861Z",
-      "durationMs": 525,
+      "checkedAt": "2026-09-05T11:20:28.453Z",
+      "durationMs": 393,
       "error": null
     },
     {
@@ -1437,8 +1529,8 @@
       "url": "https://www.licence-professionnelle-maroc.com/search/label/FLASH",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-09-04T12:11:43.183Z",
-      "durationMs": 322,
+      "checkedAt": "2026-09-05T11:20:28.680Z",
+      "durationMs": 227,
       "error": null
     },
     {
@@ -1446,8 +1538,8 @@
       "url": "https://www.fsdm.usmba.ac.ma/News/1218/show",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-09-04T12:11:45.310Z",
-      "durationMs": 2127,
+      "checkedAt": "2026-09-05T11:20:32.868Z",
+      "durationMs": 4188,
       "error": null
     },
     {
@@ -1455,8 +1547,8 @@
       "url": "https://www.fpbm.ma/new/concours/",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-09-04T12:11:49.552Z",
-      "durationMs": 4242,
+      "checkedAt": "2026-09-05T11:20:44.625Z",
+      "durationMs": 11757,
       "error": null
     },
     {
@@ -1464,24 +1556,36 @@
       "url": "https://fpl.ac.ma/site/category/parcours-dexcellence/",
       "status": "ok",
       "matches": 0,
-      "checkedAt": "2026-09-04T12:11:58.014Z",
-      "durationMs": 8462,
+      "checkedAt": "2026-09-05T11:20:52.268Z",
+      "durationMs": 7643,
       "error": null
     }
   ],
   "lastScan": {
-    "startedAt": "2026-09-04T12:09:04.447Z",
-    "completedAt": "2026-09-04T12:11:58.021Z",
+    "startedAt": "2026-09-05T11:17:01.713Z",
+    "completedAt": "2026-09-05T11:20:52.275Z",
     "status": "completed-with-errors",
     "sitesChecked": 34,
     "healthySites": 33,
-    "matchesFound": 24,
-    "newOpportunities": 0,
+    "matchesFound": 29,
+    "newOpportunities": 5,
     "telegramSent": 0,
-    "telegramError": null,
-    "durationMs": 173574
+    "telegramError": "Telegram delivery failed",
+    "durationMs": 230562
   },
   "runs": [
+    {
+      "startedAt": "2026-09-05T11:17:01.713Z",
+      "completedAt": "2026-09-05T11:20:52.275Z",
+      "status": "completed-with-errors",
+      "sitesChecked": 34,
+      "healthySites": 33,
+      "matchesFound": 29,
+      "newOpportunities": 5,
+      "telegramSent": 0,
+      "telegramError": "Telegram delivery failed",
+      "durationMs": 230562
+    },
     {
       "startedAt": "2026-09-04T12:09:04.447Z",
       "completedAt": "2026-09-04T12:11:58.021Z",
@@ -1589,18 +1693,6 @@
       "telegramSent": 0,
       "telegramError": null,
       "durationMs": 166265
-    },
-    {
-      "startedAt": "2026-08-26T08:02:24.274Z",
-      "completedAt": "2026-08-26T08:05:27.552Z",
-      "status": "completed-with-errors",
-      "sitesChecked": 34,
-      "healthySites": 33,
-      "matchesFound": 24,
-      "newOpportunities": 0,
-      "telegramSent": 0,
-      "telegramError": null,
-      "durationMs": 183278
     }
   ]
 }
